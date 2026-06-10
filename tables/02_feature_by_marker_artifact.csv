@@ -1,0 +1,15 @@
+﻿row,Ocular / blink / EOG,Muscle / EMG,Line / mains noise,Cardiac / ECG / BCG,Motion / head movement,Bad channel / electrode contact,Rejected epoch / segment,TMS artifact,fMRI gradient artifact,Artifact label / class
+amplitude,153,114,79,52,60,46,22,17,7,4
+correlation,104,90,29,52,40,25,6,8,4,4
+PSD,90,71,62,34,28,21,6,0,1,2
+band power,70,62,69,31,33,22,7,2,2,1
+duration,79,58,29,30,33,29,6,7,5,3
+topography,68,48,23,28,30,10,3,7,3,4
+variance,61,32,25,15,25,17,5,1,3,0
+entropy,48,26,11,20,9,3,2,3,0,1
+alpha,27,16,14,15,16,8,4,5,4,0
+RMS,32,28,8,13,9,10,2,3,1,1
+gamma,20,31,30,9,8,3,0,1,0,0
+latency,33,16,6,7,6,7,5,4,1,2
+coherence,15,25,12,10,11,5,1,4,0,0
+spatial pattern,28,19,5,9,6,5,1,0,0,1

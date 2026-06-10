@@ -1,0 +1,9 @@
+jupyterlab>=4.0
+ipykernel>=6.0
+ipython>=8.0
+pymupdf>=1.23
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+tqdm>=4.66
+openpyxl>=3.1

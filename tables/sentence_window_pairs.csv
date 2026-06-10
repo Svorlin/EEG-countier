@@ -1,0 +1,2214 @@
+﻿row_level,col_level,row,col,article_count
+feature,marker_artifact,ApEn,Cardiac / ECG / BCG,3
+feature,marker_artifact,ApEn,Line / mains noise,1
+feature,marker_artifact,ApEn,Muscle / EMG,1
+feature,marker_artifact,ApEn,Ocular / blink / EOG,5
+feature,marker_artifact,PSD,Artifact label / class,2
+feature,marker_artifact,PSD,Bad channel / electrode contact,21
+feature,marker_artifact,PSD,Cardiac / ECG / BCG,34
+feature,marker_artifact,PSD,Cochlear implant artifact,1
+feature,marker_artifact,PSD,Drift / sweat / cable,2
+feature,marker_artifact,PSD,IC/component label,4
+feature,marker_artifact,PSD,Line / mains noise,62
+feature,marker_artifact,PSD,Motion / head movement,28
+feature,marker_artifact,PSD,Muscle / EMG,71
+feature,marker_artifact,PSD,Ocular / blink / EOG,90
+feature,marker_artifact,PSD,Rejected epoch / segment,6
+feature,marker_artifact,PSD,fMRI gradient artifact,1
+feature,marker_artifact,RMS,Artifact label / class,1
+feature,marker_artifact,RMS,Bad channel / electrode contact,10
+feature,marker_artifact,RMS,Cardiac / ECG / BCG,13
+feature,marker_artifact,RMS,Cochlear implant artifact,2
+feature,marker_artifact,RMS,Drift / sweat / cable,1
+feature,marker_artifact,RMS,Line / mains noise,8
+feature,marker_artifact,RMS,Motion / head movement,9
+feature,marker_artifact,RMS,Muscle / EMG,28
+feature,marker_artifact,RMS,Ocular / blink / EOG,32
+feature,marker_artifact,RMS,Rejected epoch / segment,2
+feature,marker_artifact,RMS,TMS artifact,3
+feature,marker_artifact,RMS,fMRI gradient artifact,1
+feature,marker_artifact,SampEn,Cardiac / ECG / BCG,6
+feature,marker_artifact,SampEn,Line / mains noise,1
+feature,marker_artifact,SampEn,Motion / head movement,2
+feature,marker_artifact,SampEn,Muscle / EMG,5
+feature,marker_artifact,SampEn,Ocular / blink / EOG,17
+feature,marker_artifact,SampEn,TMS artifact,1
+feature,marker_artifact,alpha,Bad channel / electrode contact,8
+feature,marker_artifact,alpha,Cardiac / ECG / BCG,15
+feature,marker_artifact,alpha,Cochlear implant artifact,1
+feature,marker_artifact,alpha,Drift / sweat / cable,1
+feature,marker_artifact,alpha,IC/component label,1
+feature,marker_artifact,alpha,Line / mains noise,14
+feature,marker_artifact,alpha,Motion / head movement,16
+feature,marker_artifact,alpha,Muscle / EMG,16
+feature,marker_artifact,alpha,Ocular / blink / EOG,27
+feature,marker_artifact,alpha,Rejected epoch / segment,4
+feature,marker_artifact,alpha,TMS artifact,5
+feature,marker_artifact,alpha,fMRI gradient artifact,4
+feature,marker_artifact,amplitude,Artifact label / class,4
+feature,marker_artifact,amplitude,Bad channel / electrode contact,46
+feature,marker_artifact,amplitude,Cardiac / ECG / BCG,52
+feature,marker_artifact,amplitude,Cochlear implant artifact,2
+feature,marker_artifact,amplitude,Drift / sweat / cable,9
+feature,marker_artifact,amplitude,IC/component label,1
+feature,marker_artifact,amplitude,Line / mains noise,79
+feature,marker_artifact,amplitude,Motion / head movement,60
+feature,marker_artifact,amplitude,Muscle / EMG,114
+feature,marker_artifact,amplitude,Ocular / blink / EOG,153
+feature,marker_artifact,amplitude,Rejected epoch / segment,22
+feature,marker_artifact,amplitude,TMS artifact,17
+feature,marker_artifact,amplitude,fMRI gradient artifact,7
+feature,marker_artifact,band power,Artifact label / class,1
+feature,marker_artifact,band power,Bad channel / electrode contact,22
+feature,marker_artifact,band power,Cardiac / ECG / BCG,31
+feature,marker_artifact,band power,Cochlear implant artifact,1
+feature,marker_artifact,band power,Drift / sweat / cable,1
+feature,marker_artifact,band power,IC/component label,1
+feature,marker_artifact,band power,Line / mains noise,69
+feature,marker_artifact,band power,Motion / head movement,33
+feature,marker_artifact,band power,Muscle / EMG,62
+feature,marker_artifact,band power,Ocular / blink / EOG,70
+feature,marker_artifact,band power,Rejected epoch / segment,7
+feature,marker_artifact,band power,TMS artifact,2
+feature,marker_artifact,band power,fMRI gradient artifact,2
+feature,marker_artifact,beta,Bad channel / electrode contact,3
+feature,marker_artifact,beta,Cardiac / ECG / BCG,7
+feature,marker_artifact,beta,Line / mains noise,15
+feature,marker_artifact,beta,Motion / head movement,8
+feature,marker_artifact,beta,Muscle / EMG,25
+feature,marker_artifact,beta,Ocular / blink / EOG,11
+feature,marker_artifact,beta,Rejected epoch / segment,1
+feature,marker_artifact,beta,TMS artifact,3
+feature,marker_artifact,coherence,Bad channel / electrode contact,5
+feature,marker_artifact,coherence,Cardiac / ECG / BCG,10
+feature,marker_artifact,coherence,Line / mains noise,12
+feature,marker_artifact,coherence,Motion / head movement,11
+feature,marker_artifact,coherence,Muscle / EMG,25
+feature,marker_artifact,coherence,Ocular / blink / EOG,15
+feature,marker_artifact,coherence,Rejected epoch / segment,1
+feature,marker_artifact,coherence,TMS artifact,4
+feature,marker_artifact,correlation,Artifact label / class,4
+feature,marker_artifact,correlation,Bad channel / electrode contact,25
+feature,marker_artifact,correlation,Bad-channel label/list,1
+feature,marker_artifact,correlation,Cardiac / ECG / BCG,52
+feature,marker_artifact,correlation,Cochlear implant artifact,1
+feature,marker_artifact,correlation,Drift / sweat / cable,1
+feature,marker_artifact,correlation,IC/component label,1
+feature,marker_artifact,correlation,Line / mains noise,29
+feature,marker_artifact,correlation,Motion / head movement,40
+feature,marker_artifact,correlation,Muscle / EMG,90
+feature,marker_artifact,correlation,Ocular / blink / EOG,104
+feature,marker_artifact,correlation,Rejected epoch / segment,6
+feature,marker_artifact,correlation,TMS artifact,8
+feature,marker_artifact,correlation,fMRI gradient artifact,4
+feature,marker_artifact,covariance,Bad channel / electrode contact,1
+feature,marker_artifact,covariance,Cardiac / ECG / BCG,2
+feature,marker_artifact,covariance,Line / mains noise,4
+feature,marker_artifact,covariance,Motion / head movement,5
+feature,marker_artifact,covariance,Muscle / EMG,5
+feature,marker_artifact,covariance,Ocular / blink / EOG,16
+feature,marker_artifact,delta,Bad channel / electrode contact,1
+feature,marker_artifact,delta,Cardiac / ECG / BCG,2
+feature,marker_artifact,delta,IC/component label,1
+feature,marker_artifact,delta,Line / mains noise,6
+feature,marker_artifact,delta,Motion / head movement,5
+feature,marker_artifact,delta,Muscle / EMG,8
+feature,marker_artifact,delta,Ocular / blink / EOG,14
+feature,marker_artifact,delta,TMS artifact,2
+feature,marker_artifact,duration,Artifact label / class,3
+feature,marker_artifact,duration,Bad channel / electrode contact,29
+feature,marker_artifact,duration,Bad-channel label/list,1
+feature,marker_artifact,duration,Cardiac / ECG / BCG,30
+feature,marker_artifact,duration,Cochlear implant artifact,1
+feature,marker_artifact,duration,Drift / sweat / cable,1
+feature,marker_artifact,duration,IC/component label,1
+feature,marker_artifact,duration,Line / mains noise,29
+feature,marker_artifact,duration,Motion / head movement,33
+feature,marker_artifact,duration,Muscle / EMG,58
+feature,marker_artifact,duration,Ocular / blink / EOG,79
+feature,marker_artifact,duration,Rejected epoch / segment,6
+feature,marker_artifact,duration,TMS artifact,7
+feature,marker_artifact,duration,fMRI gradient artifact,5
+feature,marker_artifact,entropy,Artifact label / class,1
+feature,marker_artifact,entropy,Bad channel / electrode contact,3
+feature,marker_artifact,entropy,Cardiac / ECG / BCG,20
+feature,marker_artifact,entropy,Line / mains noise,11
+feature,marker_artifact,entropy,Motion / head movement,9
+feature,marker_artifact,entropy,Muscle / EMG,26
+feature,marker_artifact,entropy,Ocular / blink / EOG,48
+feature,marker_artifact,entropy,Rejected epoch / segment,2
+feature,marker_artifact,entropy,TMS artifact,3
+feature,marker_artifact,fractal dimension,Bad channel / electrode contact,1
+feature,marker_artifact,fractal dimension,Cardiac / ECG / BCG,2
+feature,marker_artifact,fractal dimension,Line / mains noise,2
+feature,marker_artifact,fractal dimension,Muscle / EMG,4
+feature,marker_artifact,fractal dimension,Ocular / blink / EOG,10
+feature,marker_artifact,fractal dimension,Rejected epoch / segment,1
+feature,marker_artifact,fractal dimension,TMS artifact,1
+feature,marker_artifact,gamma,Bad channel / electrode contact,3
+feature,marker_artifact,gamma,Cardiac / ECG / BCG,9
+feature,marker_artifact,gamma,Cochlear implant artifact,1
+feature,marker_artifact,gamma,Drift / sweat / cable,1
+feature,marker_artifact,gamma,Line / mains noise,30
+feature,marker_artifact,gamma,Motion / head movement,8
+feature,marker_artifact,gamma,Muscle / EMG,31
+feature,marker_artifact,gamma,Ocular / blink / EOG,20
+feature,marker_artifact,gamma,TMS artifact,1
+feature,marker_artifact,latency,Artifact label / class,2
+feature,marker_artifact,latency,Bad channel / electrode contact,7
+feature,marker_artifact,latency,Cardiac / ECG / BCG,7
+feature,marker_artifact,latency,Drift / sweat / cable,1
+feature,marker_artifact,latency,Line / mains noise,6
+feature,marker_artifact,latency,Motion / head movement,6
+feature,marker_artifact,latency,Muscle / EMG,16
+feature,marker_artifact,latency,Ocular / blink / EOG,33
+feature,marker_artifact,latency,Rejected epoch / segment,5
+feature,marker_artifact,latency,TMS artifact,4
+feature,marker_artifact,latency,fMRI gradient artifact,1
+feature,marker_artifact,peak-to-peak,Artifact label / class,1
+feature,marker_artifact,peak-to-peak,Bad channel / electrode contact,8
+feature,marker_artifact,peak-to-peak,Cardiac / ECG / BCG,5
+feature,marker_artifact,peak-to-peak,Line / mains noise,5
+feature,marker_artifact,peak-to-peak,Motion / head movement,3
+feature,marker_artifact,peak-to-peak,Muscle / EMG,7
+feature,marker_artifact,peak-to-peak,Ocular / blink / EOG,11
+feature,marker_artifact,peak-to-peak,Rejected epoch / segment,5
+feature,marker_artifact,phase-locking/PLV,Bad channel / electrode contact,2
+feature,marker_artifact,phase-locking/PLV,Cardiac / ECG / BCG,2
+feature,marker_artifact,phase-locking/PLV,Line / mains noise,2
+feature,marker_artifact,phase-locking/PLV,Motion / head movement,4
+feature,marker_artifact,phase-locking/PLV,Muscle / EMG,7
+feature,marker_artifact,phase-locking/PLV,Ocular / blink / EOG,8
+feature,marker_artifact,phase-locking/PLV,TMS artifact,2
+feature,marker_artifact,spatial pattern,Artifact label / class,1
+feature,marker_artifact,spatial pattern,Bad channel / electrode contact,5
+feature,marker_artifact,spatial pattern,Cardiac / ECG / BCG,9
+feature,marker_artifact,spatial pattern,IC/component label,1
+feature,marker_artifact,spatial pattern,Line / mains noise,5
+feature,marker_artifact,spatial pattern,Motion / head movement,6
+feature,marker_artifact,spatial pattern,Muscle / EMG,19
+feature,marker_artifact,spatial pattern,Ocular / blink / EOG,28
+feature,marker_artifact,spatial pattern,Rejected epoch / segment,1
+feature,marker_artifact,theta,Bad channel / electrode contact,3
+feature,marker_artifact,theta,Cardiac / ECG / BCG,5
+feature,marker_artifact,theta,Drift / sweat / cable,1
+feature,marker_artifact,theta,Line / mains noise,12
+feature,marker_artifact,theta,Motion / head movement,9
+feature,marker_artifact,theta,Muscle / EMG,6
+feature,marker_artifact,theta,Ocular / blink / EOG,11
+feature,marker_artifact,theta,TMS artifact,2
+feature,marker_artifact,topography,Artifact label / class,4
+feature,marker_artifact,topography,Bad channel / electrode contact,10
+feature,marker_artifact,topography,Cardiac / ECG / BCG,28
+feature,marker_artifact,topography,Cochlear implant artifact,3
+feature,marker_artifact,topography,Drift / sweat / cable,1
+feature,marker_artifact,topography,IC/component label,5
+feature,marker_artifact,topography,Line / mains noise,23
+feature,marker_artifact,topography,Motion / head movement,30
+feature,marker_artifact,topography,Muscle / EMG,48
+feature,marker_artifact,topography,Ocular / blink / EOG,68
+feature,marker_artifact,topography,Rejected epoch / segment,3
+feature,marker_artifact,topography,TMS artifact,7
+feature,marker_artifact,topography,fMRI gradient artifact,3
+feature,marker_artifact,variance,Bad channel / electrode contact,17
+feature,marker_artifact,variance,Cardiac / ECG / BCG,15
+feature,marker_artifact,variance,Drift / sweat / cable,2
+feature,marker_artifact,variance,IC/component label,1
+feature,marker_artifact,variance,Line / mains noise,25
+feature,marker_artifact,variance,Motion / head movement,25
+feature,marker_artifact,variance,Muscle / EMG,32
+feature,marker_artifact,variance,Ocular / blink / EOG,61
+feature,marker_artifact,variance,Rejected epoch / segment,5
+feature,marker_artifact,variance,TMS artifact,1
+feature,marker_artifact,variance,fMRI gradient artifact,3
+feature,tool,ApEn,EEGLAB,1
+feature,tool,ApEn,MATLAB,2
+feature,tool,ApEn,Python,1
+feature,tool,ApEn,XGBoost,1
+feature,tool,PSD,ADJUST,8
+feature,tool,PSD,BioSemi,1
+feature,tool,PSD,Brainstorm,1
+feature,tool,PSD,EDF,3
+feature,tool,PSD,EEGLAB,35
+feature,tool,PSD,FASTER,9
+feature,tool,PSD,FieldTrip,5
+feature,tool,PSD,ICLabel,9
+feature,tool,PSD,LSL,1
+feature,tool,PSD,MARA,3
+feature,tool,PSD,MATLAB,38
+feature,tool,PSD,MNE-Python,10
+feature,tool,PSD,PREP pipeline,1
+feature,tool,PSD,PyTorch,1
+feature,tool,PSD,Python,26
+feature,tool,PSD,R,2
+feature,tool,PSD,SASICA,2
+feature,tool,PSD,XGBoost,2
+feature,tool,PSD,Zapline,1
+feature,tool,PSD,clean_rawdata,2
+feature,tool,PSD,scikit-learn,2
+feature,tool,RMS,ADJUST,4
+feature,tool,RMS,BioSemi,1
+feature,tool,RMS,BrainVision,1
+feature,tool,RMS,EEGLAB,4
+feature,tool,RMS,FASTER,2
+feature,tool,RMS,ICLabel,5
+feature,tool,RMS,LSL,2
+feature,tool,RMS,MARA,1
+feature,tool,RMS,MATLAB,7
+feature,tool,RMS,MNE-Python,1
+feature,tool,RMS,PyTorch,2
+feature,tool,RMS,Python,6
+feature,tool,SampEn,ADJUST,1
+feature,tool,SampEn,EDF,1
+feature,tool,SampEn,FASTER,2
+feature,tool,SampEn,ICLabel,1
+feature,tool,SampEn,LSL,1
+feature,tool,SampEn,MATLAB,2
+feature,tool,SampEn,Python,1
+feature,tool,alpha,ADJUST,9
+feature,tool,alpha,BioSemi,2
+feature,tool,alpha,BrainVision,3
+feature,tool,alpha,Brainstorm,1
+feature,tool,alpha,EEGLAB,11
+feature,tool,alpha,FASTER,13
+feature,tool,alpha,FieldTrip,2
+feature,tool,alpha,ICLabel,3
+feature,tool,alpha,MARA,1
+feature,tool,alpha,MATLAB,15
+feature,tool,alpha,MNE-Python,1
+feature,tool,alpha,PREP pipeline,1
+feature,tool,alpha,Python,4
+feature,tool,alpha,R,3
+feature,tool,alpha,SASICA,1
+feature,tool,amplitude,ADJUST,16
+feature,tool,amplitude,Autoreject,3
+feature,tool,amplitude,BioSemi,2
+feature,tool,amplitude,BrainVision,2
+feature,tool,amplitude,Brainstorm,5
+feature,tool,amplitude,CleanLine,4
+feature,tool,amplitude,EDF,2
+feature,tool,amplitude,EEGLAB,53
+feature,tool,amplitude,FASTER,25
+feature,tool,amplitude,FieldTrip,10
+feature,tool,amplitude,ICLabel,7
+feature,tool,amplitude,LSL,2
+feature,tool,amplitude,MARA,3
+feature,tool,amplitude,MATLAB,49
+feature,tool,amplitude,MNE-Python,7
+feature,tool,amplitude,PREP pipeline,6
+feature,tool,amplitude,Python,14
+feature,tool,amplitude,R,1
+feature,tool,amplitude,SASICA,1
+feature,tool,amplitude,XGBoost,2
+feature,tool,amplitude,Zapline,1
+feature,tool,amplitude,clean_rawdata,5
+feature,tool,band power,ADJUST,16
+feature,tool,band power,Autoreject,2
+feature,tool,band power,BioSemi,2
+feature,tool,band power,BrainVision,2
+feature,tool,band power,Brainstorm,3
+feature,tool,band power,CleanLine,3
+feature,tool,band power,EDF,2
+feature,tool,band power,EEGLAB,36
+feature,tool,band power,FASTER,25
+feature,tool,band power,FieldTrip,13
+feature,tool,band power,ICLabel,7
+feature,tool,band power,LSL,1
+feature,tool,band power,MARA,2
+feature,tool,band power,MATLAB,46
+feature,tool,band power,MNE-Python,4
+feature,tool,band power,Python,11
+feature,tool,band power,R,4
+feature,tool,band power,XGBoost,4
+feature,tool,band power,Zapline,1
+feature,tool,band power,scikit-learn,4
+feature,tool,beta,ADJUST,4
+feature,tool,beta,BioSemi,2
+feature,tool,beta,BrainVision,1
+feature,tool,beta,EEGLAB,7
+feature,tool,beta,FASTER,16
+feature,tool,beta,FieldTrip,1
+feature,tool,beta,ICLabel,1
+feature,tool,beta,MATLAB,4
+feature,tool,beta,R,1
+feature,tool,beta,SASICA,1
+feature,tool,beta,XGBoost,1
+feature,tool,coherence,ADJUST,3
+feature,tool,coherence,BrainVision,1
+feature,tool,coherence,Brainstorm,2
+feature,tool,coherence,EDF,1
+feature,tool,coherence,EEGLAB,3
+feature,tool,coherence,FASTER,5
+feature,tool,coherence,FieldTrip,1
+feature,tool,coherence,MARA,1
+feature,tool,coherence,MATLAB,13
+feature,tool,coherence,MNE-Python,1
+feature,tool,coherence,Python,3
+feature,tool,coherence,scikit-learn,1
+feature,tool,correlation,ADJUST,20
+feature,tool,correlation,Autoreject,1
+feature,tool,correlation,BioSemi,2
+feature,tool,correlation,BrainVision,1
+feature,tool,correlation,Brainstorm,2
+feature,tool,correlation,CleanLine,1
+feature,tool,correlation,EDF,2
+feature,tool,correlation,EEGLAB,35
+feature,tool,correlation,FASTER,19
+feature,tool,correlation,FieldTrip,7
+feature,tool,correlation,ICLabel,8
+feature,tool,correlation,Keras,1
+feature,tool,correlation,LSL,1
+feature,tool,correlation,MARA,1
+feature,tool,correlation,MATLAB,30
+feature,tool,correlation,MNE-Python,6
+feature,tool,correlation,PREP pipeline,2
+feature,tool,correlation,PyTorch,1
+feature,tool,correlation,Python,17
+feature,tool,correlation,R,9
+feature,tool,correlation,SASICA,3
+feature,tool,correlation,XGBoost,4
+feature,tool,correlation,Zapline,1
+feature,tool,correlation,clean_rawdata,9
+feature,tool,correlation,scikit-learn,3
+feature,tool,covariance,ADJUST,1
+feature,tool,covariance,Brainstorm,5
+feature,tool,covariance,EEGLAB,4
+feature,tool,covariance,FASTER,3
+feature,tool,covariance,FieldTrip,2
+feature,tool,covariance,ICLabel,1
+feature,tool,covariance,MATLAB,7
+feature,tool,covariance,MNE-Python,4
+feature,tool,covariance,Python,7
+feature,tool,covariance,R,3
+feature,tool,covariance,XGBoost,1
+feature,tool,covariance,Zapline,1
+feature,tool,covariance,scikit-learn,3
+feature,tool,delta,BioSemi,1
+feature,tool,delta,EEGLAB,2
+feature,tool,delta,FASTER,5
+feature,tool,delta,ICLabel,1
+feature,tool,delta,MATLAB,1
+feature,tool,delta,XGBoost,1
+feature,tool,duration,ADJUST,9
+feature,tool,duration,Autoreject,2
+feature,tool,duration,BioSemi,3
+feature,tool,duration,BrainVision,2
+feature,tool,duration,Brainstorm,1
+feature,tool,duration,EDF,4
+feature,tool,duration,EEGLAB,30
+feature,tool,duration,FASTER,13
+feature,tool,duration,FieldTrip,6
+feature,tool,duration,ICLabel,7
+feature,tool,duration,Keras,1
+feature,tool,duration,LSL,2
+feature,tool,duration,MATLAB,45
+feature,tool,duration,MNE-Python,3
+feature,tool,duration,PREP pipeline,1
+feature,tool,duration,Python,7
+feature,tool,duration,R,2
+feature,tool,duration,XGBoost,1
+feature,tool,duration,Zapline,2
+feature,tool,duration,clean_rawdata,1
+feature,tool,duration,scikit-learn,1
+feature,tool,entropy,ADJUST,2
+feature,tool,entropy,Autoreject,2
+feature,tool,entropy,EDF,4
+feature,tool,entropy,EEGLAB,4
+feature,tool,entropy,FASTER,6
+feature,tool,entropy,FieldTrip,1
+feature,tool,entropy,ICLabel,1
+feature,tool,entropy,Keras,6
+feature,tool,entropy,LSL,1
+feature,tool,entropy,MATLAB,10
+feature,tool,entropy,MNE-Python,4
+feature,tool,entropy,PyTorch,1
+feature,tool,entropy,Python,10
+feature,tool,entropy,R,1
+feature,tool,entropy,XGBoost,4
+feature,tool,entropy,scikit-learn,1
+feature,tool,fractal dimension,ADJUST,2
+feature,tool,fractal dimension,EEGLAB,2
+feature,tool,fractal dimension,LSL,1
+feature,tool,fractal dimension,MARA,1
+feature,tool,fractal dimension,MATLAB,1
+feature,tool,fractal dimension,Python,1
+feature,tool,gamma,ADJUST,1
+feature,tool,gamma,BioSemi,1
+feature,tool,gamma,CleanLine,1
+feature,tool,gamma,EEGLAB,2
+feature,tool,gamma,FASTER,8
+feature,tool,gamma,FieldTrip,1
+feature,tool,gamma,MATLAB,4
+feature,tool,gamma,MNE-Python,1
+feature,tool,gamma,PREP pipeline,1
+feature,tool,gamma,Python,1
+feature,tool,gamma,R,1
+feature,tool,gamma,Zapline,1
+feature,tool,gamma,clean_rawdata,1
+feature,tool,latency,ADJUST,2
+feature,tool,latency,EEGLAB,10
+feature,tool,latency,FASTER,10
+feature,tool,latency,FieldTrip,1
+feature,tool,latency,ICLabel,2
+feature,tool,latency,LSL,2
+feature,tool,latency,MATLAB,11
+feature,tool,latency,MNE-Python,1
+feature,tool,latency,Python,5
+feature,tool,latency,XGBoost,1
+feature,tool,peak-to-peak,ADJUST,1
+feature,tool,peak-to-peak,Autoreject,5
+feature,tool,peak-to-peak,BrainVision,1
+feature,tool,peak-to-peak,EEGLAB,6
+feature,tool,peak-to-peak,FASTER,2
+feature,tool,peak-to-peak,FieldTrip,1
+feature,tool,peak-to-peak,ICLabel,1
+feature,tool,peak-to-peak,MARA,1
+feature,tool,peak-to-peak,MATLAB,4
+feature,tool,peak-to-peak,Python,1
+feature,tool,peak-to-peak,XGBoost,2
+feature,tool,phase-locking/PLV,BioSemi,1
+feature,tool,phase-locking/PLV,EDF,1
+feature,tool,phase-locking/PLV,EEGLAB,5
+feature,tool,phase-locking/PLV,FASTER,1
+feature,tool,phase-locking/PLV,FieldTrip,2
+feature,tool,phase-locking/PLV,MARA,1
+feature,tool,phase-locking/PLV,MATLAB,6
+feature,tool,phase-locking/PLV,MNE-Python,1
+feature,tool,phase-locking/PLV,Python,1
+feature,tool,phase-locking/PLV,XGBoost,1
+feature,tool,spatial pattern,ADJUST,8
+feature,tool,spatial pattern,Brainstorm,1
+feature,tool,spatial pattern,EDF,1
+feature,tool,spatial pattern,EEGLAB,3
+feature,tool,spatial pattern,FASTER,2
+feature,tool,spatial pattern,FieldTrip,1
+feature,tool,spatial pattern,LSL,1
+feature,tool,spatial pattern,MNE-Python,1
+feature,tool,spatial pattern,Python,4
+feature,tool,spatial pattern,XGBoost,2
+feature,tool,spatial pattern,scikit-learn,3
+feature,tool,theta,ADJUST,2
+feature,tool,theta,BrainVision,2
+feature,tool,theta,EEGLAB,2
+feature,tool,theta,FASTER,12
+feature,tool,theta,FieldTrip,1
+feature,tool,theta,MATLAB,7
+feature,tool,theta,Python,1
+feature,tool,theta,XGBoost,1
+feature,tool,topography,ADJUST,9
+feature,tool,topography,BioSemi,2
+feature,tool,topography,BrainVision,1
+feature,tool,topography,Brainstorm,1
+feature,tool,topography,CleanLine,1
+feature,tool,topography,EEGLAB,32
+feature,tool,topography,FASTER,11
+feature,tool,topography,FieldTrip,10
+feature,tool,topography,ICLabel,9
+feature,tool,topography,MARA,6
+feature,tool,topography,MATLAB,19
+feature,tool,topography,MNE-Python,3
+feature,tool,topography,PREP pipeline,1
+feature,tool,topography,Python,4
+feature,tool,topography,SASICA,4
+feature,tool,topography,Zapline,1
+feature,tool,topography,scikit-learn,2
+feature,tool,variance,ADJUST,13
+feature,tool,variance,BrainVision,1
+feature,tool,variance,Brainstorm,1
+feature,tool,variance,CleanLine,2
+feature,tool,variance,EDF,1
+feature,tool,variance,EEGLAB,28
+feature,tool,variance,FASTER,11
+feature,tool,variance,FieldTrip,8
+feature,tool,variance,ICLabel,15
+feature,tool,variance,LSL,1
+feature,tool,variance,MARA,5
+feature,tool,variance,MATLAB,18
+feature,tool,variance,MNE-Python,2
+feature,tool,variance,PREP pipeline,2
+feature,tool,variance,PyTorch,1
+feature,tool,variance,Python,8
+feature,tool,variance,R,7
+feature,tool,variance,SASICA,2
+feature,tool,variance,XGBoost,1
+feature,tool,variance,Zapline,1
+feature,tool,variance,clean_rawdata,2
+feature,tool,variance,scikit-learn,1
+marker_artifact,tool,Artifact label / class,ADJUST,1
+marker_artifact,tool,Artifact label / class,Brainstorm,1
+marker_artifact,tool,Artifact label / class,EEGLAB,2
+marker_artifact,tool,Artifact label / class,FASTER,2
+marker_artifact,tool,Artifact label / class,FieldTrip,1
+marker_artifact,tool,Artifact label / class,ICLabel,4
+marker_artifact,tool,Artifact label / class,MARA,2
+marker_artifact,tool,Artifact label / class,MATLAB,1
+marker_artifact,tool,Artifact label / class,MNE-Python,2
+marker_artifact,tool,Artifact label / class,Python,3
+marker_artifact,tool,Artifact label / class,SASICA,1
+marker_artifact,tool,Artifact label / class,XGBoost,1
+marker_artifact,tool,Bad channel / electrode contact,ADJUST,13
+marker_artifact,tool,Bad channel / electrode contact,Automagic,1
+marker_artifact,tool,Bad channel / electrode contact,Autoreject,2
+marker_artifact,tool,Bad channel / electrode contact,BioSemi,4
+marker_artifact,tool,Bad channel / electrode contact,BrainVision,8
+marker_artifact,tool,Bad channel / electrode contact,Brainstorm,2
+marker_artifact,tool,Bad channel / electrode contact,CleanLine,4
+marker_artifact,tool,Bad channel / electrode contact,EDF,4
+marker_artifact,tool,Bad channel / electrode contact,EEGLAB,53
+marker_artifact,tool,Bad channel / electrode contact,FASTER,7
+marker_artifact,tool,Bad channel / electrode contact,FieldTrip,7
+marker_artifact,tool,Bad channel / electrode contact,ICLabel,9
+marker_artifact,tool,Bad channel / electrode contact,MARA,3
+marker_artifact,tool,Bad channel / electrode contact,MATLAB,44
+marker_artifact,tool,Bad channel / electrode contact,MNE-Python,1
+marker_artifact,tool,Bad channel / electrode contact,PREP pipeline,9
+marker_artifact,tool,Bad channel / electrode contact,Python,3
+marker_artifact,tool,Bad channel / electrode contact,Zapline,2
+marker_artifact,tool,Bad channel / electrode contact,clean_rawdata,10
+marker_artifact,tool,Bad-channel label/list,ADJUST,1
+marker_artifact,tool,Cardiac / ECG / BCG,ADJUST,3
+marker_artifact,tool,Cardiac / ECG / BCG,Autoreject,1
+marker_artifact,tool,Cardiac / ECG / BCG,BioSemi,4
+marker_artifact,tool,Cardiac / ECG / BCG,BrainVision,7
+marker_artifact,tool,Cardiac / ECG / BCG,Brainstorm,1
+marker_artifact,tool,Cardiac / ECG / BCG,CleanLine,1
+marker_artifact,tool,Cardiac / ECG / BCG,EDF,5
+marker_artifact,tool,Cardiac / ECG / BCG,EEGLAB,34
+marker_artifact,tool,Cardiac / ECG / BCG,FASTER,9
+marker_artifact,tool,Cardiac / ECG / BCG,FieldTrip,3
+marker_artifact,tool,Cardiac / ECG / BCG,ICLabel,3
+marker_artifact,tool,Cardiac / ECG / BCG,LSL,4
+marker_artifact,tool,Cardiac / ECG / BCG,MARA,4
+marker_artifact,tool,Cardiac / ECG / BCG,MATLAB,34
+marker_artifact,tool,Cardiac / ECG / BCG,MNE-Python,2
+marker_artifact,tool,Cardiac / ECG / BCG,PREP pipeline,1
+marker_artifact,tool,Cardiac / ECG / BCG,Python,7
+marker_artifact,tool,Cardiac / ECG / BCG,XGBoost,1
+marker_artifact,tool,Cardiac / ECG / BCG,Zapline,1
+marker_artifact,tool,Cochlear implant artifact,ADJUST,2
+marker_artifact,tool,Cochlear implant artifact,EEGLAB,2
+marker_artifact,tool,Cochlear implant artifact,FieldTrip,1
+marker_artifact,tool,Cochlear implant artifact,MATLAB,1
+marker_artifact,tool,Drift / sweat / cable,EEGLAB,2
+marker_artifact,tool,Drift / sweat / cable,FASTER,1
+marker_artifact,tool,Drift / sweat / cable,LSL,1
+marker_artifact,tool,Drift / sweat / cable,MATLAB,5
+marker_artifact,tool,Drift / sweat / cable,MNE-Python,1
+marker_artifact,tool,Drift / sweat / cable,Python,2
+marker_artifact,tool,IC/component label,ADJUST,3
+marker_artifact,tool,IC/component label,EEGLAB,7
+marker_artifact,tool,IC/component label,FASTER,2
+marker_artifact,tool,IC/component label,ICLabel,13
+marker_artifact,tool,IC/component label,MATLAB,1
+marker_artifact,tool,IC/component label,Python,2
+marker_artifact,tool,IC/component label,SASICA,1
+marker_artifact,tool,Line / mains noise,ADJUST,13
+marker_artifact,tool,Line / mains noise,Automagic,1
+marker_artifact,tool,Line / mains noise,Autoreject,2
+marker_artifact,tool,Line / mains noise,BioSemi,5
+marker_artifact,tool,Line / mains noise,BrainVision,8
+marker_artifact,tool,Line / mains noise,Brainstorm,4
+marker_artifact,tool,Line / mains noise,CleanLine,23
+marker_artifact,tool,Line / mains noise,EDF,3
+marker_artifact,tool,Line / mains noise,EEGLAB,103
+marker_artifact,tool,Line / mains noise,FASTER,13
+marker_artifact,tool,Line / mains noise,FieldTrip,10
+marker_artifact,tool,Line / mains noise,ICLabel,21
+marker_artifact,tool,Line / mains noise,LSL,2
+marker_artifact,tool,Line / mains noise,MARA,3
+marker_artifact,tool,Line / mains noise,MATLAB,83
+marker_artifact,tool,Line / mains noise,MNE-Python,5
+marker_artifact,tool,Line / mains noise,PREP pipeline,12
+marker_artifact,tool,Line / mains noise,Python,10
+marker_artifact,tool,Line / mains noise,R,1
+marker_artifact,tool,Line / mains noise,SASICA,2
+marker_artifact,tool,Line / mains noise,Zapline,13
+marker_artifact,tool,Line / mains noise,clean_rawdata,12
+marker_artifact,tool,Line / mains noise,scikit-learn,1
+marker_artifact,tool,Motion / head movement,ADJUST,16
+marker_artifact,tool,Motion / head movement,Automagic,2
+marker_artifact,tool,Motion / head movement,Autoreject,1
+marker_artifact,tool,Motion / head movement,BioSemi,7
+marker_artifact,tool,Motion / head movement,BrainVision,2
+marker_artifact,tool,Motion / head movement,Brainstorm,3
+marker_artifact,tool,Motion / head movement,CleanLine,2
+marker_artifact,tool,Motion / head movement,EEGLAB,33
+marker_artifact,tool,Motion / head movement,FASTER,9
+marker_artifact,tool,Motion / head movement,FieldTrip,3
+marker_artifact,tool,Motion / head movement,ICLabel,9
+marker_artifact,tool,Motion / head movement,LSL,1
+marker_artifact,tool,Motion / head movement,MARA,6
+marker_artifact,tool,Motion / head movement,MATLAB,20
+marker_artifact,tool,Motion / head movement,MNE-Python,1
+marker_artifact,tool,Motion / head movement,PREP pipeline,2
+marker_artifact,tool,Motion / head movement,Python,3
+marker_artifact,tool,Motion / head movement,SASICA,3
+marker_artifact,tool,Motion / head movement,Zapline,2
+marker_artifact,tool,Motion / head movement,clean_rawdata,3
+marker_artifact,tool,Muscle / EMG,ADJUST,20
+marker_artifact,tool,Muscle / EMG,Autoreject,2
+marker_artifact,tool,Muscle / EMG,BioSemi,12
+marker_artifact,tool,Muscle / EMG,BrainVision,4
+marker_artifact,tool,Muscle / EMG,Brainstorm,2
+marker_artifact,tool,Muscle / EMG,CleanLine,1
+marker_artifact,tool,Muscle / EMG,EDF,6
+marker_artifact,tool,Muscle / EMG,EEGLAB,63
+marker_artifact,tool,Muscle / EMG,FASTER,21
+marker_artifact,tool,Muscle / EMG,FieldTrip,10
+marker_artifact,tool,Muscle / EMG,ICLabel,20
+marker_artifact,tool,Muscle / EMG,Keras,1
+marker_artifact,tool,Muscle / EMG,LSL,4
+marker_artifact,tool,Muscle / EMG,MARA,4
+marker_artifact,tool,Muscle / EMG,MATLAB,40
+marker_artifact,tool,Muscle / EMG,MNE-Python,9
+marker_artifact,tool,Muscle / EMG,Python,16
+marker_artifact,tool,Muscle / EMG,R,1
+marker_artifact,tool,Muscle / EMG,SASICA,2
+marker_artifact,tool,Muscle / EMG,XGBoost,2
+marker_artifact,tool,Muscle / EMG,Zapline,3
+marker_artifact,tool,Muscle / EMG,clean_rawdata,4
+marker_artifact,tool,Muscle / EMG,scikit-learn,1
+marker_artifact,tool,Ocular / blink / EOG,ADJUST,51
+marker_artifact,tool,Ocular / blink / EOG,Automagic,1
+marker_artifact,tool,Ocular / blink / EOG,Autoreject,4
+marker_artifact,tool,Ocular / blink / EOG,BioSemi,16
+marker_artifact,tool,Ocular / blink / EOG,BrainVision,10
+marker_artifact,tool,Ocular / blink / EOG,Brainstorm,4
+marker_artifact,tool,Ocular / blink / EOG,CleanLine,4
+marker_artifact,tool,Ocular / blink / EOG,EDF,10
+marker_artifact,tool,Ocular / blink / EOG,EEGLAB,121
+marker_artifact,tool,Ocular / blink / EOG,FASTER,36
+marker_artifact,tool,Ocular / blink / EOG,FieldTrip,12
+marker_artifact,tool,Ocular / blink / EOG,ICLabel,31
+marker_artifact,tool,Ocular / blink / EOG,Keras,1
+marker_artifact,tool,Ocular / blink / EOG,LSL,5
+marker_artifact,tool,Ocular / blink / EOG,MARA,7
+marker_artifact,tool,Ocular / blink / EOG,MATLAB,73
+marker_artifact,tool,Ocular / blink / EOG,MNE-Python,10
+marker_artifact,tool,Ocular / blink / EOG,PREP pipeline,9
+marker_artifact,tool,Ocular / blink / EOG,PyTorch,1
+marker_artifact,tool,Ocular / blink / EOG,Python,28
+marker_artifact,tool,Ocular / blink / EOG,R,3
+marker_artifact,tool,Ocular / blink / EOG,SASICA,8
+marker_artifact,tool,Ocular / blink / EOG,XGBoost,5
+marker_artifact,tool,Ocular / blink / EOG,Zapline,3
+marker_artifact,tool,Ocular / blink / EOG,clean_rawdata,9
+marker_artifact,tool,Ocular / blink / EOG,scikit-learn,5
+marker_artifact,tool,Rejected epoch / segment,ADJUST,3
+marker_artifact,tool,Rejected epoch / segment,Autoreject,8
+marker_artifact,tool,Rejected epoch / segment,Brainstorm,2
+marker_artifact,tool,Rejected epoch / segment,EEGLAB,9
+marker_artifact,tool,Rejected epoch / segment,FASTER,1
+marker_artifact,tool,Rejected epoch / segment,FieldTrip,2
+marker_artifact,tool,Rejected epoch / segment,ICLabel,3
+marker_artifact,tool,Rejected epoch / segment,LSL,1
+marker_artifact,tool,Rejected epoch / segment,MARA,1
+marker_artifact,tool,Rejected epoch / segment,MATLAB,7
+marker_artifact,tool,Rejected epoch / segment,MNE-Python,2
+marker_artifact,tool,Rejected epoch / segment,PREP pipeline,1
+marker_artifact,tool,Rejected epoch / segment,Python,3
+marker_artifact,tool,Rejected epoch / segment,SASICA,1
+marker_artifact,tool,Rejected epoch / segment,clean_rawdata,1
+marker_artifact,tool,TMS artifact,ADJUST,1
+marker_artifact,tool,TMS artifact,Brainstorm,1
+marker_artifact,tool,TMS artifact,EEGLAB,2
+marker_artifact,tool,TMS artifact,FASTER,2
+marker_artifact,tool,TMS artifact,ICLabel,1
+marker_artifact,tool,TMS artifact,MATLAB,3
+marker_artifact,tool,TMS artifact,Python,1
+marker_artifact,tool,fMRI gradient artifact,ADJUST,1
+marker_artifact,tool,fMRI gradient artifact,BrainVision,3
+marker_artifact,tool,fMRI gradient artifact,EEGLAB,14
+marker_artifact,tool,fMRI gradient artifact,FASTER,1
+marker_artifact,tool,fMRI gradient artifact,FieldTrip,1
+marker_artifact,tool,fMRI gradient artifact,MATLAB,11
+marker_artifact,tool,fMRI gradient artifact,Python,1
+marker_artifact,tool,fMRI gradient artifact,clean_rawdata,1
+method,feature,ASR,PSD,12
+method,feature,ASR,RMS,6
+method,feature,ASR,alpha,4
+method,feature,ASR,amplitude,33
+method,feature,ASR,band power,6
+method,feature,ASR,beta,2
+method,feature,ASR,coherence,5
+method,feature,ASR,correlation,18
+method,feature,ASR,covariance,5
+method,feature,ASR,delta,1
+method,feature,ASR,duration,10
+method,feature,ASR,entropy,4
+method,feature,ASR,fractal dimension,1
+method,feature,ASR,gamma,3
+method,feature,ASR,latency,5
+method,feature,ASR,peak-to-peak,1
+method,feature,ASR,spatial pattern,3
+method,feature,ASR,topography,2
+method,feature,ASR,variance,21
+method,feature,CCA,ApEn,1
+method,feature,CCA,PSD,13
+method,feature,CCA,RMS,6
+method,feature,CCA,SampEn,2
+method,feature,CCA,alpha,3
+method,feature,CCA,amplitude,17
+method,feature,CCA,band power,9
+method,feature,CCA,beta,1
+method,feature,CCA,coherence,5
+method,feature,CCA,correlation,103
+method,feature,CCA,covariance,11
+method,feature,CCA,duration,9
+method,feature,CCA,entropy,5
+method,feature,CCA,fractal dimension,1
+method,feature,CCA,gamma,1
+method,feature,CCA,latency,2
+method,feature,CCA,spatial pattern,7
+method,feature,CCA,theta,1
+method,feature,CCA,topography,5
+method,feature,CCA,variance,6
+method,feature,CNN,ApEn,11
+method,feature,CNN,PSD,49
+method,feature,CNN,RMS,12
+method,feature,CNN,SampEn,10
+method,feature,CNN,alpha,5
+method,feature,CNN,amplitude,28
+method,feature,CNN,band power,22
+method,feature,CNN,beta,4
+method,feature,CNN,coherence,9
+method,feature,CNN,correlation,53
+method,feature,CNN,covariance,7
+method,feature,CNN,delta,1
+method,feature,CNN,duration,23
+method,feature,CNN,entropy,67
+method,feature,CNN,fractal dimension,11
+method,feature,CNN,gamma,7
+method,feature,CNN,latency,15
+method,feature,CNN,peak-to-peak,4
+method,feature,CNN,phase-locking/PLV,12
+method,feature,CNN,spatial pattern,60
+method,feature,CNN,topography,16
+method,feature,CNN,variance,28
+method,feature,EMD/EEMD,ApEn,8
+method,feature,EMD/EEMD,PSD,27
+method,feature,EMD/EEMD,RMS,12
+method,feature,EMD/EEMD,SampEn,14
+method,feature,EMD/EEMD,alpha,2
+method,feature,EMD/EEMD,amplitude,17
+method,feature,EMD/EEMD,band power,15
+method,feature,EMD/EEMD,beta,2
+method,feature,EMD/EEMD,coherence,8
+method,feature,EMD/EEMD,correlation,57
+method,feature,EMD/EEMD,covariance,2
+method,feature,EMD/EEMD,delta,3
+method,feature,EMD/EEMD,duration,12
+method,feature,EMD/EEMD,entropy,36
+method,feature,EMD/EEMD,fractal dimension,9
+method,feature,EMD/EEMD,gamma,5
+method,feature,EMD/EEMD,latency,4
+method,feature,EMD/EEMD,peak-to-peak,4
+method,feature,EMD/EEMD,phase-locking/PLV,12
+method,feature,EMD/EEMD,spatial pattern,18
+method,feature,EMD/EEMD,theta,1
+method,feature,EMD/EEMD,topography,4
+method,feature,EMD/EEMD,variance,13
+method,feature,FFT,ApEn,3
+method,feature,FFT,PSD,56
+method,feature,FFT,RMS,8
+method,feature,FFT,SampEn,3
+method,feature,FFT,alpha,15
+method,feature,FFT,amplitude,31
+method,feature,FFT,band power,49
+method,feature,FFT,beta,6
+method,feature,FFT,coherence,8
+method,feature,FFT,correlation,12
+method,feature,FFT,covariance,4
+method,feature,FFT,delta,3
+method,feature,FFT,duration,17
+method,feature,FFT,entropy,20
+method,feature,FFT,fractal dimension,4
+method,feature,FFT,gamma,2
+method,feature,FFT,latency,4
+method,feature,FFT,peak-to-peak,4
+method,feature,FFT,phase-locking/PLV,6
+method,feature,FFT,spatial pattern,15
+method,feature,FFT,theta,6
+method,feature,FFT,topography,6
+method,feature,FFT,variance,16
+method,feature,FIR,ApEn,1
+method,feature,FIR,PSD,16
+method,feature,FIR,RMS,2
+method,feature,FIR,SampEn,1
+method,feature,FIR,alpha,4
+method,feature,FIR,amplitude,21
+method,feature,FIR,band power,11
+method,feature,FIR,beta,2
+method,feature,FIR,coherence,2
+method,feature,FIR,correlation,15
+method,feature,FIR,covariance,6
+method,feature,FIR,duration,10
+method,feature,FIR,entropy,7
+method,feature,FIR,fractal dimension,3
+method,feature,FIR,gamma,1
+method,feature,FIR,latency,4
+method,feature,FIR,peak-to-peak,1
+method,feature,FIR,phase-locking/PLV,2
+method,feature,FIR,spatial pattern,8
+method,feature,FIR,theta,2
+method,feature,FIR,topography,2
+method,feature,FIR,variance,7
+method,feature,ICA,ApEn,7
+method,feature,ICA,PSD,79
+method,feature,ICA,RMS,23
+method,feature,ICA,SampEn,19
+method,feature,ICA,alpha,22
+method,feature,ICA,amplitude,132
+method,feature,ICA,band power,66
+method,feature,ICA,beta,18
+method,feature,ICA,coherence,22
+method,feature,ICA,correlation,125
+method,feature,ICA,covariance,21
+method,feature,ICA,delta,7
+method,feature,ICA,duration,42
+method,feature,ICA,entropy,53
+method,feature,ICA,fractal dimension,9
+method,feature,ICA,gamma,18
+method,feature,ICA,latency,26
+method,feature,ICA,peak-to-peak,15
+method,feature,ICA,phase-locking/PLV,13
+method,feature,ICA,spatial pattern,33
+method,feature,ICA,theta,13
+method,feature,ICA,topography,79
+method,feature,ICA,variance,66
+method,feature,LDA,ApEn,3
+method,feature,LDA,PSD,22
+method,feature,LDA,RMS,7
+method,feature,LDA,SampEn,4
+method,feature,LDA,alpha,3
+method,feature,LDA,amplitude,13
+method,feature,LDA,band power,24
+method,feature,LDA,beta,2
+method,feature,LDA,coherence,7
+method,feature,LDA,correlation,17
+method,feature,LDA,covariance,20
+method,feature,LDA,delta,2
+method,feature,LDA,duration,2
+method,feature,LDA,entropy,17
+method,feature,LDA,fractal dimension,10
+method,feature,LDA,gamma,4
+method,feature,LDA,latency,3
+method,feature,LDA,peak-to-peak,3
+method,feature,LDA,phase-locking/PLV,7
+method,feature,LDA,spatial pattern,26
+method,feature,LDA,theta,5
+method,feature,LDA,variance,20
+method,feature,LSTM,ApEn,4
+method,feature,LSTM,PSD,30
+method,feature,LSTM,RMS,9
+method,feature,LSTM,SampEn,3
+method,feature,LSTM,amplitude,9
+method,feature,LSTM,band power,9
+method,feature,LSTM,beta,1
+method,feature,LSTM,coherence,2
+method,feature,LSTM,correlation,25
+method,feature,LSTM,covariance,4
+method,feature,LSTM,delta,1
+method,feature,LSTM,duration,12
+method,feature,LSTM,entropy,33
+method,feature,LSTM,fractal dimension,7
+method,feature,LSTM,gamma,2
+method,feature,LSTM,latency,7
+method,feature,LSTM,peak-to-peak,3
+method,feature,LSTM,phase-locking/PLV,10
+method,feature,LSTM,spatial pattern,34
+method,feature,LSTM,topography,4
+method,feature,LSTM,variance,13
+method,feature,PCA,ApEn,5
+method,feature,PCA,PSD,27
+method,feature,PCA,RMS,9
+method,feature,PCA,SampEn,2
+method,feature,PCA,alpha,6
+method,feature,PCA,amplitude,27
+method,feature,PCA,band power,15
+method,feature,PCA,beta,2
+method,feature,PCA,coherence,8
+method,feature,PCA,correlation,60
+method,feature,PCA,covariance,21
+method,feature,PCA,duration,8
+method,feature,PCA,entropy,23
+method,feature,PCA,fractal dimension,12
+method,feature,PCA,gamma,2
+method,feature,PCA,latency,5
+method,feature,PCA,peak-to-peak,3
+method,feature,PCA,phase-locking/PLV,6
+method,feature,PCA,spatial pattern,17
+method,feature,PCA,topography,15
+method,feature,PCA,variance,45
+method,feature,RNN,ApEn,3
+method,feature,RNN,PSD,16
+method,feature,RNN,RMS,4
+method,feature,RNN,SampEn,2
+method,feature,RNN,alpha,1
+method,feature,RNN,amplitude,5
+method,feature,RNN,band power,5
+method,feature,RNN,beta,2
+method,feature,RNN,coherence,3
+method,feature,RNN,correlation,16
+method,feature,RNN,covariance,3
+method,feature,RNN,duration,5
+method,feature,RNN,entropy,20
+method,feature,RNN,fractal dimension,7
+method,feature,RNN,gamma,1
+method,feature,RNN,latency,2
+method,feature,RNN,peak-to-peak,3
+method,feature,RNN,phase-locking/PLV,6
+method,feature,RNN,spatial pattern,28
+method,feature,RNN,topography,4
+method,feature,RNN,variance,11
+method,feature,Random Forest,ApEn,4
+method,feature,Random Forest,PSD,28
+method,feature,Random Forest,RMS,8
+method,feature,Random Forest,SampEn,4
+method,feature,Random Forest,alpha,3
+method,feature,Random Forest,amplitude,8
+method,feature,Random Forest,band power,9
+method,feature,Random Forest,beta,5
+method,feature,Random Forest,coherence,4
+method,feature,Random Forest,correlation,16
+method,feature,Random Forest,covariance,2
+method,feature,Random Forest,duration,2
+method,feature,Random Forest,entropy,19
+method,feature,Random Forest,fractal dimension,6
+method,feature,Random Forest,gamma,1
+method,feature,Random Forest,latency,6
+method,feature,Random Forest,peak-to-peak,2
+method,feature,Random Forest,phase-locking/PLV,5
+method,feature,Random Forest,spatial pattern,18
+method,feature,Random Forest,theta,4
+method,feature,Random Forest,variance,9
+method,feature,SOBI/BSS,ApEn,1
+method,feature,SOBI/BSS,PSD,20
+method,feature,SOBI/BSS,RMS,6
+method,feature,SOBI/BSS,SampEn,3
+method,feature,SOBI/BSS,alpha,3
+method,feature,SOBI/BSS,amplitude,22
+method,feature,SOBI/BSS,band power,12
+method,feature,SOBI/BSS,beta,1
+method,feature,SOBI/BSS,coherence,5
+method,feature,SOBI/BSS,correlation,47
+method,feature,SOBI/BSS,covariance,7
+method,feature,SOBI/BSS,duration,8
+method,feature,SOBI/BSS,entropy,17
+method,feature,SOBI/BSS,fractal dimension,5
+method,feature,SOBI/BSS,latency,2
+method,feature,SOBI/BSS,peak-to-peak,1
+method,feature,SOBI/BSS,phase-locking/PLV,4
+method,feature,SOBI/BSS,spatial pattern,6
+method,feature,SOBI/BSS,topography,14
+method,feature,SOBI/BSS,variance,13
+method,feature,SVM,ApEn,12
+method,feature,SVM,PSD,62
+method,feature,SVM,RMS,16
+method,feature,SVM,SampEn,14
+method,feature,SVM,alpha,15
+method,feature,SVM,amplitude,28
+method,feature,SVM,band power,43
+method,feature,SVM,beta,6
+method,feature,SVM,coherence,17
+method,feature,SVM,correlation,51
+method,feature,SVM,covariance,12
+method,feature,SVM,delta,5
+method,feature,SVM,duration,19
+method,feature,SVM,entropy,65
+method,feature,SVM,fractal dimension,24
+method,feature,SVM,gamma,10
+method,feature,SVM,latency,15
+method,feature,SVM,peak-to-peak,7
+method,feature,SVM,phase-locking/PLV,16
+method,feature,SVM,spatial pattern,54
+method,feature,SVM,theta,9
+method,feature,SVM,topography,6
+method,feature,SVM,variance,33
+method,feature,Welch,ApEn,3
+method,feature,Welch,PSD,109
+method,feature,Welch,RMS,4
+method,feature,Welch,SampEn,3
+method,feature,Welch,alpha,15
+method,feature,Welch,amplitude,6
+method,feature,Welch,band power,45
+method,feature,Welch,beta,3
+method,feature,Welch,coherence,6
+method,feature,Welch,correlation,11
+method,feature,Welch,delta,2
+method,feature,Welch,duration,17
+method,feature,Welch,entropy,12
+method,feature,Welch,fractal dimension,2
+method,feature,Welch,gamma,2
+method,feature,Welch,latency,1
+method,feature,Welch,peak-to-peak,2
+method,feature,Welch,phase-locking/PLV,5
+method,feature,Welch,spatial pattern,3
+method,feature,Welch,theta,4
+method,feature,Welch,topography,4
+method,feature,Welch,variance,16
+method,feature,band-pass,ApEn,1
+method,feature,band-pass,PSD,41
+method,feature,band-pass,RMS,4
+method,feature,band-pass,SampEn,1
+method,feature,band-pass,alpha,11
+method,feature,band-pass,amplitude,75
+method,feature,band-pass,band power,62
+method,feature,band-pass,beta,10
+method,feature,band-pass,coherence,9
+method,feature,band-pass,correlation,35
+method,feature,band-pass,covariance,7
+method,feature,band-pass,delta,1
+method,feature,band-pass,duration,34
+method,feature,band-pass,entropy,18
+method,feature,band-pass,fractal dimension,4
+method,feature,band-pass,gamma,10
+method,feature,band-pass,latency,5
+method,feature,band-pass,peak-to-peak,7
+method,feature,band-pass,phase-locking/PLV,9
+method,feature,band-pass,spatial pattern,15
+method,feature,band-pass,theta,3
+method,feature,band-pass,topography,14
+method,feature,band-pass,variance,21
+method,feature,classifier,ApEn,10
+method,feature,classifier,PSD,54
+method,feature,classifier,RMS,12
+method,feature,classifier,SampEn,15
+method,feature,classifier,alpha,22
+method,feature,classifier,amplitude,50
+method,feature,classifier,band power,60
+method,feature,classifier,beta,14
+method,feature,classifier,coherence,20
+method,feature,classifier,correlation,62
+method,feature,classifier,covariance,18
+method,feature,classifier,delta,7
+method,feature,classifier,duration,40
+method,feature,classifier,entropy,82
+method,feature,classifier,fractal dimension,17
+method,feature,classifier,gamma,14
+method,feature,classifier,latency,23
+method,feature,classifier,peak-to-peak,5
+method,feature,classifier,phase-locking/PLV,14
+method,feature,classifier,spatial pattern,54
+method,feature,classifier,theta,22
+method,feature,classifier,topography,23
+method,feature,classifier,variance,52
+method,feature,high-pass,PSD,13
+method,feature,high-pass,RMS,8
+method,feature,high-pass,alpha,3
+method,feature,high-pass,amplitude,41
+method,feature,high-pass,band power,17
+method,feature,high-pass,coherence,4
+method,feature,high-pass,correlation,17
+method,feature,high-pass,covariance,1
+method,feature,high-pass,delta,4
+method,feature,high-pass,duration,14
+method,feature,high-pass,entropy,4
+method,feature,high-pass,fractal dimension,1
+method,feature,high-pass,gamma,4
+method,feature,high-pass,latency,5
+method,feature,high-pass,peak-to-peak,3
+method,feature,high-pass,phase-locking/PLV,2
+method,feature,high-pass,spatial pattern,2
+method,feature,high-pass,theta,1
+method,feature,high-pass,topography,3
+method,feature,high-pass,variance,6
+method,feature,interpolation,ApEn,1
+method,feature,interpolation,PSD,14
+method,feature,interpolation,RMS,4
+method,feature,interpolation,SampEn,1
+method,feature,interpolation,alpha,7
+method,feature,interpolation,amplitude,44
+method,feature,interpolation,band power,20
+method,feature,interpolation,beta,2
+method,feature,interpolation,coherence,4
+method,feature,interpolation,correlation,23
+method,feature,interpolation,covariance,4
+method,feature,interpolation,delta,2
+method,feature,interpolation,duration,21
+method,feature,interpolation,entropy,3
+method,feature,interpolation,fractal dimension,1
+method,feature,interpolation,gamma,2
+method,feature,interpolation,latency,3
+method,feature,interpolation,peak-to-peak,10
+method,feature,interpolation,phase-locking/PLV,2
+method,feature,interpolation,spatial pattern,1
+method,feature,interpolation,theta,3
+method,feature,interpolation,topography,15
+method,feature,interpolation,variance,21
+method,feature,kNN,ApEn,8
+method,feature,kNN,PSD,35
+method,feature,kNN,RMS,7
+method,feature,kNN,SampEn,6
+method,feature,kNN,alpha,5
+method,feature,kNN,amplitude,12
+method,feature,kNN,band power,21
+method,feature,kNN,beta,5
+method,feature,kNN,coherence,10
+method,feature,kNN,correlation,28
+method,feature,kNN,covariance,3
+method,feature,kNN,delta,1
+method,feature,kNN,duration,7
+method,feature,kNN,entropy,36
+method,feature,kNN,fractal dimension,12
+method,feature,kNN,gamma,2
+method,feature,kNN,latency,5
+method,feature,kNN,peak-to-peak,4
+method,feature,kNN,phase-locking/PLV,7
+method,feature,kNN,spatial pattern,17
+method,feature,kNN,theta,7
+method,feature,kNN,topography,5
+method,feature,kNN,variance,22
+method,feature,low-pass,PSD,13
+method,feature,low-pass,RMS,8
+method,feature,low-pass,alpha,3
+method,feature,low-pass,amplitude,35
+method,feature,low-pass,band power,12
+method,feature,low-pass,beta,3
+method,feature,low-pass,coherence,6
+method,feature,low-pass,correlation,17
+method,feature,low-pass,covariance,2
+method,feature,low-pass,delta,2
+method,feature,low-pass,duration,15
+method,feature,low-pass,entropy,7
+method,feature,low-pass,fractal dimension,1
+method,feature,low-pass,gamma,3
+method,feature,low-pass,latency,5
+method,feature,low-pass,peak-to-peak,3
+method,feature,low-pass,phase-locking/PLV,1
+method,feature,low-pass,spatial pattern,4
+method,feature,low-pass,theta,2
+method,feature,low-pass,topography,3
+method,feature,low-pass,variance,10
+method,feature,notch/band-stop,PSD,14
+method,feature,notch/band-stop,RMS,6
+method,feature,notch/band-stop,alpha,3
+method,feature,notch/band-stop,amplitude,32
+method,feature,notch/band-stop,band power,19
+method,feature,notch/band-stop,beta,4
+method,feature,notch/band-stop,coherence,2
+method,feature,notch/band-stop,correlation,9
+method,feature,notch/band-stop,covariance,2
+method,feature,notch/band-stop,delta,3
+method,feature,notch/band-stop,duration,13
+method,feature,notch/band-stop,entropy,6
+method,feature,notch/band-stop,fractal dimension,1
+method,feature,notch/band-stop,gamma,6
+method,feature,notch/band-stop,latency,3
+method,feature,notch/band-stop,peak-to-peak,1
+method,feature,notch/band-stop,spatial pattern,2
+method,feature,notch/band-stop,theta,3
+method,feature,notch/band-stop,topography,12
+method,feature,notch/band-stop,variance,5
+method,feature,reconstruction/imputation,ApEn,5
+method,feature,reconstruction/imputation,PSD,34
+method,feature,reconstruction/imputation,RMS,16
+method,feature,reconstruction/imputation,SampEn,6
+method,feature,reconstruction/imputation,alpha,12
+method,feature,reconstruction/imputation,amplitude,65
+method,feature,reconstruction/imputation,band power,22
+method,feature,reconstruction/imputation,beta,5
+method,feature,reconstruction/imputation,coherence,11
+method,feature,reconstruction/imputation,correlation,61
+method,feature,reconstruction/imputation,covariance,18
+method,feature,reconstruction/imputation,delta,2
+method,feature,reconstruction/imputation,duration,23
+method,feature,reconstruction/imputation,entropy,23
+method,feature,reconstruction/imputation,fractal dimension,2
+method,feature,reconstruction/imputation,gamma,7
+method,feature,reconstruction/imputation,latency,11
+method,feature,reconstruction/imputation,peak-to-peak,2
+method,feature,reconstruction/imputation,phase-locking/PLV,9
+method,feature,reconstruction/imputation,spatial pattern,14
+method,feature,reconstruction/imputation,theta,4
+method,feature,reconstruction/imputation,topography,26
+method,feature,reconstruction/imputation,variance,41
+method,feature,regression/GLM,ApEn,2
+method,feature,regression/GLM,PSD,43
+method,feature,regression/GLM,RMS,15
+method,feature,regression/GLM,SampEn,5
+method,feature,regression/GLM,alpha,27
+method,feature,regression/GLM,amplitude,69
+method,feature,regression/GLM,band power,47
+method,feature,regression/GLM,beta,13
+method,feature,regression/GLM,coherence,10
+method,feature,regression/GLM,correlation,108
+method,feature,regression/GLM,covariance,17
+method,feature,regression/GLM,delta,5
+method,feature,regression/GLM,duration,37
+method,feature,regression/GLM,entropy,30
+method,feature,regression/GLM,fractal dimension,6
+method,feature,regression/GLM,gamma,11
+method,feature,regression/GLM,latency,16
+method,feature,regression/GLM,peak-to-peak,4
+method,feature,regression/GLM,phase-locking/PLV,6
+method,feature,regression/GLM,spatial pattern,20
+method,feature,regression/GLM,theta,11
+method,feature,regression/GLM,topography,16
+method,feature,regression/GLM,variance,54
+method,feature,spectrogram/STFT,ApEn,5
+method,feature,spectrogram/STFT,PSD,42
+method,feature,spectrogram/STFT,RMS,7
+method,feature,spectrogram/STFT,SampEn,2
+method,feature,spectrogram/STFT,alpha,10
+method,feature,spectrogram/STFT,amplitude,27
+method,feature,spectrogram/STFT,band power,31
+method,feature,spectrogram/STFT,beta,4
+method,feature,spectrogram/STFT,coherence,6
+method,feature,spectrogram/STFT,correlation,19
+method,feature,spectrogram/STFT,covariance,4
+method,feature,spectrogram/STFT,delta,3
+method,feature,spectrogram/STFT,duration,15
+method,feature,spectrogram/STFT,entropy,23
+method,feature,spectrogram/STFT,fractal dimension,7
+method,feature,spectrogram/STFT,gamma,3
+method,feature,spectrogram/STFT,latency,7
+method,feature,spectrogram/STFT,peak-to-peak,2
+method,feature,spectrogram/STFT,phase-locking/PLV,6
+method,feature,spectrogram/STFT,spatial pattern,21
+method,feature,spectrogram/STFT,theta,2
+method,feature,spectrogram/STFT,topography,6
+method,feature,spectrogram/STFT,variance,16
+method,feature,threshold,ApEn,8
+method,feature,threshold,PSD,43
+method,feature,threshold,RMS,17
+method,feature,threshold,SampEn,14
+method,feature,threshold,alpha,27
+method,feature,threshold,amplitude,161
+method,feature,threshold,band power,62
+method,feature,threshold,beta,21
+method,feature,threshold,coherence,16
+method,feature,threshold,correlation,114
+method,feature,threshold,covariance,15
+method,feature,threshold,delta,6
+method,feature,threshold,duration,73
+method,feature,threshold,entropy,40
+method,feature,threshold,fractal dimension,4
+method,feature,threshold,gamma,8
+method,feature,threshold,latency,31
+method,feature,threshold,peak-to-peak,20
+method,feature,threshold,phase-locking/PLV,9
+method,feature,threshold,spatial pattern,10
+method,feature,threshold,theta,14
+method,feature,threshold,topography,38
+method,feature,threshold,variance,58
+method,feature,wavelet/DWT/CWT,ApEn,22
+method,feature,wavelet/DWT/CWT,PSD,79
+method,feature,wavelet/DWT/CWT,RMS,25
+method,feature,wavelet/DWT/CWT,SampEn,36
+method,feature,wavelet/DWT/CWT,alpha,8
+method,feature,wavelet/DWT/CWT,amplitude,70
+method,feature,wavelet/DWT/CWT,band power,66
+method,feature,wavelet/DWT/CWT,beta,6
+method,feature,wavelet/DWT/CWT,coherence,33
+method,feature,wavelet/DWT/CWT,correlation,84
+method,feature,wavelet/DWT/CWT,covariance,10
+method,feature,wavelet/DWT/CWT,delta,7
+method,feature,wavelet/DWT/CWT,duration,51
+method,feature,wavelet/DWT/CWT,entropy,111
+method,feature,wavelet/DWT/CWT,fractal dimension,24
+method,feature,wavelet/DWT/CWT,gamma,15
+method,feature,wavelet/DWT/CWT,latency,17
+method,feature,wavelet/DWT/CWT,peak-to-peak,5
+method,feature,wavelet/DWT/CWT,phase-locking/PLV,18
+method,feature,wavelet/DWT/CWT,spatial pattern,51
+method,feature,wavelet/DWT/CWT,theta,9
+method,feature,wavelet/DWT/CWT,topography,17
+method,feature,wavelet/DWT/CWT,variance,46
+method,feature,z-score,PSD,12
+method,feature,z-score,RMS,4
+method,feature,z-score,SampEn,2
+method,feature,z-score,alpha,5
+method,feature,z-score,amplitude,22
+method,feature,z-score,band power,13
+method,feature,z-score,beta,5
+method,feature,z-score,coherence,2
+method,feature,z-score,correlation,19
+method,feature,z-score,covariance,3
+method,feature,z-score,duration,8
+method,feature,z-score,entropy,7
+method,feature,z-score,gamma,3
+method,feature,z-score,latency,2
+method,feature,z-score,peak-to-peak,1
+method,feature,z-score,phase-locking/PLV,2
+method,feature,z-score,spatial pattern,6
+method,feature,z-score,theta,2
+method,feature,z-score,topography,8
+method,feature,z-score,variance,12
+method,marker_artifact,ASR,Artifact label / class,2
+method,marker_artifact,ASR,Bad channel / electrode contact,10
+method,marker_artifact,ASR,Cardiac / ECG / BCG,5
+method,marker_artifact,ASR,Line / mains noise,30
+method,marker_artifact,ASR,Motion / head movement,22
+method,marker_artifact,ASR,Muscle / EMG,21
+method,marker_artifact,ASR,Ocular / blink / EOG,38
+method,marker_artifact,ASR,Rejected epoch / segment,5
+method,marker_artifact,ASR,TMS artifact,1
+method,marker_artifact,ASR,fMRI gradient artifact,1
+method,marker_artifact,CCA,Artifact label / class,1
+method,marker_artifact,CCA,Bad channel / electrode contact,2
+method,marker_artifact,CCA,Cardiac / ECG / BCG,15
+method,marker_artifact,CCA,Drift / sweat / cable,1
+method,marker_artifact,CCA,Line / mains noise,11
+method,marker_artifact,CCA,Motion / head movement,17
+method,marker_artifact,CCA,Muscle / EMG,58
+method,marker_artifact,CCA,Ocular / blink / EOG,38
+method,marker_artifact,CCA,Rejected epoch / segment,1
+method,marker_artifact,CCA,fMRI gradient artifact,1
+method,marker_artifact,CNN,Artifact label / class,3
+method,marker_artifact,CNN,Bad channel / electrode contact,5
+method,marker_artifact,CNN,Cardiac / ECG / BCG,35
+method,marker_artifact,CNN,Line / mains noise,16
+method,marker_artifact,CNN,Motion / head movement,7
+method,marker_artifact,CNN,Muscle / EMG,40
+method,marker_artifact,CNN,Ocular / blink / EOG,60
+method,marker_artifact,CNN,Rejected epoch / segment,1
+method,marker_artifact,CNN,TMS artifact,3
+method,marker_artifact,CNN,fMRI gradient artifact,1
+method,marker_artifact,EMD/EEMD,Artifact label / class,1
+method,marker_artifact,EMD/EEMD,Bad channel / electrode contact,2
+method,marker_artifact,EMD/EEMD,Cardiac / ECG / BCG,22
+method,marker_artifact,EMD/EEMD,Drift / sweat / cable,2
+method,marker_artifact,EMD/EEMD,Line / mains noise,11
+method,marker_artifact,EMD/EEMD,Motion / head movement,9
+method,marker_artifact,EMD/EEMD,Muscle / EMG,45
+method,marker_artifact,EMD/EEMD,Ocular / blink / EOG,49
+method,marker_artifact,FFT,Bad channel / electrode contact,3
+method,marker_artifact,FFT,Cardiac / ECG / BCG,17
+method,marker_artifact,FFT,Drift / sweat / cable,1
+method,marker_artifact,FFT,Line / mains noise,10
+method,marker_artifact,FFT,Motion / head movement,3
+method,marker_artifact,FFT,Muscle / EMG,12
+method,marker_artifact,FFT,Ocular / blink / EOG,16
+method,marker_artifact,FFT,Rejected epoch / segment,1
+method,marker_artifact,FIR,Bad channel / electrode contact,15
+method,marker_artifact,FIR,Bad-channel label/list,1
+method,marker_artifact,FIR,Cardiac / ECG / BCG,17
+method,marker_artifact,FIR,Drift / sweat / cable,4
+method,marker_artifact,FIR,Line / mains noise,55
+method,marker_artifact,FIR,Motion / head movement,7
+method,marker_artifact,FIR,Muscle / EMG,17
+method,marker_artifact,FIR,Ocular / blink / EOG,35
+method,marker_artifact,FIR,Rejected epoch / segment,2
+method,marker_artifact,FIR,fMRI gradient artifact,4
+method,marker_artifact,ICA,Artifact label / class,6
+method,marker_artifact,ICA,Bad channel / electrode contact,52
+method,marker_artifact,ICA,Cardiac / ECG / BCG,91
+method,marker_artifact,ICA,Cochlear implant artifact,4
+method,marker_artifact,ICA,Drift / sweat / cable,9
+method,marker_artifact,ICA,IC/component label,15
+method,marker_artifact,ICA,Line / mains noise,135
+method,marker_artifact,ICA,Motion / head movement,117
+method,marker_artifact,ICA,Muscle / EMG,201
+method,marker_artifact,ICA,Ocular / blink / EOG,339
+method,marker_artifact,ICA,Rejected epoch / segment,23
+method,marker_artifact,ICA,TMS artifact,8
+method,marker_artifact,ICA,fMRI gradient artifact,9
+method,marker_artifact,LDA,Artifact label / class,1
+method,marker_artifact,LDA,Bad channel / electrode contact,5
+method,marker_artifact,LDA,Cardiac / ECG / BCG,9
+method,marker_artifact,LDA,Line / mains noise,5
+method,marker_artifact,LDA,Motion / head movement,3
+method,marker_artifact,LDA,Muscle / EMG,11
+method,marker_artifact,LDA,Ocular / blink / EOG,14
+method,marker_artifact,LSTM,Artifact label / class,1
+method,marker_artifact,LSTM,Bad channel / electrode contact,1
+method,marker_artifact,LSTM,Cardiac / ECG / BCG,12
+method,marker_artifact,LSTM,Line / mains noise,4
+method,marker_artifact,LSTM,Motion / head movement,1
+method,marker_artifact,LSTM,Muscle / EMG,23
+method,marker_artifact,LSTM,Ocular / blink / EOG,29
+method,marker_artifact,LSTM,TMS artifact,2
+method,marker_artifact,LSTM,fMRI gradient artifact,1
+method,marker_artifact,PCA,Bad channel / electrode contact,6
+method,marker_artifact,PCA,Cardiac / ECG / BCG,34
+method,marker_artifact,PCA,Line / mains noise,26
+method,marker_artifact,PCA,Motion / head movement,16
+method,marker_artifact,PCA,Muscle / EMG,30
+method,marker_artifact,PCA,Ocular / blink / EOG,51
+method,marker_artifact,PCA,Rejected epoch / segment,3
+method,marker_artifact,PCA,TMS artifact,2
+method,marker_artifact,PCA,fMRI gradient artifact,5
+method,marker_artifact,RNN,Bad channel / electrode contact,2
+method,marker_artifact,RNN,Cardiac / ECG / BCG,6
+method,marker_artifact,RNN,Line / mains noise,4
+method,marker_artifact,RNN,Motion / head movement,1
+method,marker_artifact,RNN,Muscle / EMG,16
+method,marker_artifact,RNN,Ocular / blink / EOG,15
+method,marker_artifact,RNN,TMS artifact,1
+method,marker_artifact,Random Forest,Artifact label / class,1
+method,marker_artifact,Random Forest,Bad channel / electrode contact,1
+method,marker_artifact,Random Forest,Cardiac / ECG / BCG,7
+method,marker_artifact,Random Forest,Drift / sweat / cable,1
+method,marker_artifact,Random Forest,Line / mains noise,4
+method,marker_artifact,Random Forest,Motion / head movement,5
+method,marker_artifact,Random Forest,Muscle / EMG,7
+method,marker_artifact,Random Forest,Ocular / blink / EOG,16
+method,marker_artifact,Random Forest,Rejected epoch / segment,1
+method,marker_artifact,SOBI/BSS,Artifact label / class,4
+method,marker_artifact,SOBI/BSS,Bad channel / electrode contact,6
+method,marker_artifact,SOBI/BSS,Cardiac / ECG / BCG,24
+method,marker_artifact,SOBI/BSS,Cochlear implant artifact,3
+method,marker_artifact,SOBI/BSS,IC/component label,2
+method,marker_artifact,SOBI/BSS,Line / mains noise,20
+method,marker_artifact,SOBI/BSS,Motion / head movement,23
+method,marker_artifact,SOBI/BSS,Muscle / EMG,51
+method,marker_artifact,SOBI/BSS,Ocular / blink / EOG,87
+method,marker_artifact,SOBI/BSS,Rejected epoch / segment,3
+method,marker_artifact,SOBI/BSS,fMRI gradient artifact,2
+method,marker_artifact,SVM,Artifact label / class,4
+method,marker_artifact,SVM,Bad channel / electrode contact,6
+method,marker_artifact,SVM,Cardiac / ECG / BCG,28
+method,marker_artifact,SVM,IC/component label,1
+method,marker_artifact,SVM,Line / mains noise,9
+method,marker_artifact,SVM,Motion / head movement,12
+method,marker_artifact,SVM,Muscle / EMG,32
+method,marker_artifact,SVM,Ocular / blink / EOG,47
+method,marker_artifact,SVM,Rejected epoch / segment,1
+method,marker_artifact,SVM,TMS artifact,1
+method,marker_artifact,Welch,Bad channel / electrode contact,4
+method,marker_artifact,Welch,Cardiac / ECG / BCG,3
+method,marker_artifact,Welch,Cochlear implant artifact,1
+method,marker_artifact,Welch,Line / mains noise,16
+method,marker_artifact,Welch,Motion / head movement,4
+method,marker_artifact,Welch,Muscle / EMG,6
+method,marker_artifact,Welch,Ocular / blink / EOG,6
+method,marker_artifact,band-pass,Artifact label / class,1
+method,marker_artifact,band-pass,Bad channel / electrode contact,54
+method,marker_artifact,band-pass,Bad-channel label/list,1
+method,marker_artifact,band-pass,Cardiac / ECG / BCG,48
+method,marker_artifact,band-pass,Cochlear implant artifact,2
+method,marker_artifact,band-pass,Drift / sweat / cable,11
+method,marker_artifact,band-pass,IC/component label,2
+method,marker_artifact,band-pass,Line / mains noise,217
+method,marker_artifact,band-pass,Motion / head movement,50
+method,marker_artifact,band-pass,Muscle / EMG,85
+method,marker_artifact,band-pass,Ocular / blink / EOG,144
+method,marker_artifact,band-pass,Rejected epoch / segment,6
+method,marker_artifact,band-pass,TMS artifact,3
+method,marker_artifact,band-pass,fMRI gradient artifact,9
+method,marker_artifact,classifier,Artifact label / class,3
+method,marker_artifact,classifier,Bad channel / electrode contact,12
+method,marker_artifact,classifier,Cardiac / ECG / BCG,34
+method,marker_artifact,classifier,Drift / sweat / cable,1
+method,marker_artifact,classifier,IC/component label,4
+method,marker_artifact,classifier,Line / mains noise,26
+method,marker_artifact,classifier,Motion / head movement,29
+method,marker_artifact,classifier,Muscle / EMG,45
+method,marker_artifact,classifier,Ocular / blink / EOG,74
+method,marker_artifact,classifier,Rejected epoch / segment,3
+method,marker_artifact,classifier,TMS artifact,7
+method,marker_artifact,high-pass,Artifact label / class,1
+method,marker_artifact,high-pass,Bad channel / electrode contact,34
+method,marker_artifact,high-pass,Cardiac / ECG / BCG,16
+method,marker_artifact,high-pass,Cochlear implant artifact,1
+method,marker_artifact,high-pass,Drift / sweat / cable,9
+method,marker_artifact,high-pass,IC/component label,1
+method,marker_artifact,high-pass,Line / mains noise,98
+method,marker_artifact,high-pass,Motion / head movement,29
+method,marker_artifact,high-pass,Muscle / EMG,49
+method,marker_artifact,high-pass,Ocular / blink / EOG,64
+method,marker_artifact,high-pass,Rejected epoch / segment,12
+method,marker_artifact,high-pass,TMS artifact,1
+method,marker_artifact,high-pass,fMRI gradient artifact,1
+method,marker_artifact,interpolation,Artifact label / class,3
+method,marker_artifact,interpolation,Bad channel / electrode contact,38
+method,marker_artifact,interpolation,Bad-channel label/list,1
+method,marker_artifact,interpolation,Cardiac / ECG / BCG,19
+method,marker_artifact,interpolation,Cochlear implant artifact,2
+method,marker_artifact,interpolation,Drift / sweat / cable,2
+method,marker_artifact,interpolation,IC/component label,3
+method,marker_artifact,interpolation,Line / mains noise,47
+method,marker_artifact,interpolation,Motion / head movement,23
+method,marker_artifact,interpolation,Muscle / EMG,28
+method,marker_artifact,interpolation,Ocular / blink / EOG,68
+method,marker_artifact,interpolation,Rejected epoch / segment,15
+method,marker_artifact,interpolation,TMS artifact,5
+method,marker_artifact,interpolation,fMRI gradient artifact,2
+method,marker_artifact,kNN,Artifact label / class,2
+method,marker_artifact,kNN,Bad channel / electrode contact,5
+method,marker_artifact,kNN,Cardiac / ECG / BCG,13
+method,marker_artifact,kNN,Line / mains noise,8
+method,marker_artifact,kNN,Motion / head movement,6
+method,marker_artifact,kNN,Muscle / EMG,19
+method,marker_artifact,kNN,Ocular / blink / EOG,20
+method,marker_artifact,kNN,Rejected epoch / segment,1
+method,marker_artifact,kNN,TMS artifact,1
+method,marker_artifact,low-pass,Bad channel / electrode contact,29
+method,marker_artifact,low-pass,Cardiac / ECG / BCG,22
+method,marker_artifact,low-pass,Cochlear implant artifact,1
+method,marker_artifact,low-pass,Drift / sweat / cable,6
+method,marker_artifact,low-pass,Line / mains noise,97
+method,marker_artifact,low-pass,Motion / head movement,28
+method,marker_artifact,low-pass,Muscle / EMG,48
+method,marker_artifact,low-pass,Ocular / blink / EOG,76
+method,marker_artifact,low-pass,Rejected epoch / segment,3
+method,marker_artifact,low-pass,fMRI gradient artifact,1
+method,marker_artifact,notch/band-stop,Bad channel / electrode contact,30
+method,marker_artifact,notch/band-stop,Cardiac / ECG / BCG,23
+method,marker_artifact,notch/band-stop,Drift / sweat / cable,6
+method,marker_artifact,notch/band-stop,Line / mains noise,224
+method,marker_artifact,notch/band-stop,Motion / head movement,32
+method,marker_artifact,notch/band-stop,Muscle / EMG,60
+method,marker_artifact,notch/band-stop,Ocular / blink / EOG,83
+method,marker_artifact,notch/band-stop,Rejected epoch / segment,4
+method,marker_artifact,notch/band-stop,TMS artifact,2
+method,marker_artifact,notch/band-stop,fMRI gradient artifact,2
+method,marker_artifact,reconstruction/imputation,Artifact label / class,2
+method,marker_artifact,reconstruction/imputation,Bad channel / electrode contact,11
+method,marker_artifact,reconstruction/imputation,Cardiac / ECG / BCG,31
+method,marker_artifact,reconstruction/imputation,Cochlear implant artifact,2
+method,marker_artifact,reconstruction/imputation,Drift / sweat / cable,1
+method,marker_artifact,reconstruction/imputation,IC/component label,3
+method,marker_artifact,reconstruction/imputation,Line / mains noise,35
+method,marker_artifact,reconstruction/imputation,Motion / head movement,38
+method,marker_artifact,reconstruction/imputation,Muscle / EMG,57
+method,marker_artifact,reconstruction/imputation,Ocular / blink / EOG,85
+method,marker_artifact,reconstruction/imputation,Rejected epoch / segment,5
+method,marker_artifact,reconstruction/imputation,TMS artifact,3
+method,marker_artifact,reconstruction/imputation,fMRI gradient artifact,1
+method,marker_artifact,regression/GLM,Artifact label / class,1
+method,marker_artifact,regression/GLM,Bad channel / electrode contact,7
+method,marker_artifact,regression/GLM,Cardiac / ECG / BCG,28
+method,marker_artifact,regression/GLM,Cochlear implant artifact,1
+method,marker_artifact,regression/GLM,IC/component label,1
+method,marker_artifact,regression/GLM,Line / mains noise,24
+method,marker_artifact,regression/GLM,Motion / head movement,31
+method,marker_artifact,regression/GLM,Muscle / EMG,36
+method,marker_artifact,regression/GLM,Ocular / blink / EOG,89
+method,marker_artifact,regression/GLM,Rejected epoch / segment,6
+method,marker_artifact,regression/GLM,TMS artifact,1
+method,marker_artifact,regression/GLM,fMRI gradient artifact,2
+method,marker_artifact,spectrogram/STFT,Bad channel / electrode contact,2
+method,marker_artifact,spectrogram/STFT,Cardiac / ECG / BCG,12
+method,marker_artifact,spectrogram/STFT,Line / mains noise,9
+method,marker_artifact,spectrogram/STFT,Muscle / EMG,23
+method,marker_artifact,spectrogram/STFT,Ocular / blink / EOG,23
+method,marker_artifact,spectrogram/STFT,Rejected epoch / segment,1
+method,marker_artifact,threshold,Artifact label / class,5
+method,marker_artifact,threshold,Bad channel / electrode contact,31
+method,marker_artifact,threshold,Bad-channel label/list,1
+method,marker_artifact,threshold,Cardiac / ECG / BCG,36
+method,marker_artifact,threshold,Cochlear implant artifact,1
+method,marker_artifact,threshold,Drift / sweat / cable,5
+method,marker_artifact,threshold,IC/component label,3
+method,marker_artifact,threshold,Line / mains noise,44
+method,marker_artifact,threshold,Motion / head movement,37
+method,marker_artifact,threshold,Muscle / EMG,78
+method,marker_artifact,threshold,Ocular / blink / EOG,120
+method,marker_artifact,threshold,Rejected epoch / segment,22
+method,marker_artifact,threshold,TMS artifact,13
+method,marker_artifact,threshold,fMRI gradient artifact,2
+method,marker_artifact,wavelet/DWT/CWT,Artifact label / class,1
+method,marker_artifact,wavelet/DWT/CWT,Bad channel / electrode contact,10
+method,marker_artifact,wavelet/DWT/CWT,Cardiac / ECG / BCG,50
+method,marker_artifact,wavelet/DWT/CWT,Cochlear implant artifact,1
+method,marker_artifact,wavelet/DWT/CWT,Drift / sweat / cable,6
+method,marker_artifact,wavelet/DWT/CWT,IC/component label,2
+method,marker_artifact,wavelet/DWT/CWT,Line / mains noise,37
+method,marker_artifact,wavelet/DWT/CWT,Motion / head movement,26
+method,marker_artifact,wavelet/DWT/CWT,Muscle / EMG,76
+method,marker_artifact,wavelet/DWT/CWT,Ocular / blink / EOG,104
+method,marker_artifact,wavelet/DWT/CWT,Rejected epoch / segment,1
+method,marker_artifact,wavelet/DWT/CWT,TMS artifact,3
+method,marker_artifact,wavelet/DWT/CWT,fMRI gradient artifact,1
+method,marker_artifact,z-score,Bad channel / electrode contact,2
+method,marker_artifact,z-score,Cardiac / ECG / BCG,4
+method,marker_artifact,z-score,Drift / sweat / cable,2
+method,marker_artifact,z-score,Line / mains noise,9
+method,marker_artifact,z-score,Motion / head movement,5
+method,marker_artifact,z-score,Muscle / EMG,11
+method,marker_artifact,z-score,Ocular / blink / EOG,16
+method,marker_artifact,z-score,Rejected epoch / segment,5
+method,tool,ASR,ADJUST,10
+method,tool,ASR,Automagic,1
+method,tool,ASR,Autoreject,1
+method,tool,ASR,BioSemi,2
+method,tool,ASR,Brainstorm,1
+method,tool,ASR,CleanLine,6
+method,tool,ASR,EEGLAB,41
+method,tool,ASR,FASTER,5
+method,tool,ASR,FieldTrip,1
+method,tool,ASR,ICLabel,13
+method,tool,ASR,LSL,1
+method,tool,ASR,MARA,2
+method,tool,ASR,MATLAB,17
+method,tool,ASR,MNE-Python,1
+method,tool,ASR,PREP pipeline,5
+method,tool,ASR,Python,5
+method,tool,ASR,R,1
+method,tool,ASR,SASICA,3
+method,tool,ASR,Zapline,3
+method,tool,ASR,clean_rawdata,16
+method,tool,ASR,scikit-learn,1
+method,tool,CCA,ADJUST,2
+method,tool,CCA,BrainVision,1
+method,tool,CCA,EEGLAB,7
+method,tool,CCA,FASTER,6
+method,tool,CCA,ICLabel,1
+method,tool,CCA,MARA,2
+method,tool,CCA,MATLAB,3
+method,tool,CCA,MNE-Python,1
+method,tool,CCA,Python,1
+method,tool,CCA,R,2
+method,tool,CCA,Zapline,1
+method,tool,CNN,ADJUST,8
+method,tool,CNN,Autoreject,1
+method,tool,CNN,BioSemi,2
+method,tool,CNN,EDF,6
+method,tool,CNN,EEGLAB,5
+method,tool,CNN,FASTER,13
+method,tool,CNN,ICLabel,1
+method,tool,CNN,Keras,10
+method,tool,CNN,LSL,1
+method,tool,CNN,MATLAB,11
+method,tool,CNN,MNE-Python,2
+method,tool,CNN,PREP pipeline,1
+method,tool,CNN,PyTorch,3
+method,tool,CNN,Python,15
+method,tool,CNN,XGBoost,10
+method,tool,CNN,scikit-learn,1
+method,tool,EMD/EEMD,ADJUST,3
+method,tool,EMD/EEMD,EDF,1
+method,tool,EMD/EEMD,EEGLAB,2
+method,tool,EMD/EEMD,FASTER,3
+method,tool,EMD/EEMD,ICLabel,2
+method,tool,EMD/EEMD,LSL,1
+method,tool,EMD/EEMD,MARA,2
+method,tool,EMD/EEMD,MATLAB,3
+method,tool,EMD/EEMD,MNE-Python,1
+method,tool,EMD/EEMD,Python,3
+method,tool,EMD/EEMD,XGBoost,5
+method,tool,EMD/EEMD,Zapline,1
+method,tool,FFT,ADJUST,1
+method,tool,FFT,Brainstorm,2
+method,tool,FFT,EDF,4
+method,tool,FFT,EEGLAB,9
+method,tool,FFT,FASTER,4
+method,tool,FFT,FieldTrip,3
+method,tool,FFT,LSL,1
+method,tool,FFT,MATLAB,15
+method,tool,FFT,MNE-Python,1
+method,tool,FFT,Python,5
+method,tool,FFT,XGBoost,4
+method,tool,FIR,ADJUST,5
+method,tool,FIR,Autoreject,3
+method,tool,FIR,BrainVision,1
+method,tool,FIR,Brainstorm,2
+method,tool,FIR,CleanLine,6
+method,tool,FIR,EDF,2
+method,tool,FIR,EEGLAB,56
+method,tool,FIR,FASTER,4
+method,tool,FIR,FieldTrip,5
+method,tool,FIR,ICLabel,4
+method,tool,FIR,LSL,1
+method,tool,FIR,MARA,2
+method,tool,FIR,MATLAB,46
+method,tool,FIR,MNE-Python,3
+method,tool,FIR,PREP pipeline,3
+method,tool,FIR,Python,10
+method,tool,FIR,R,1
+method,tool,FIR,SASICA,1
+method,tool,FIR,Zapline,2
+method,tool,FIR,clean_rawdata,8
+method,tool,ICA,ADJUST,67
+method,tool,ICA,Automagic,2
+method,tool,ICA,Autoreject,7
+method,tool,ICA,BioSemi,4
+method,tool,ICA,BrainVision,5
+method,tool,ICA,Brainstorm,6
+method,tool,ICA,CleanLine,6
+method,tool,ICA,EDF,3
+method,tool,ICA,EEGLAB,279
+method,tool,ICA,FASTER,46
+method,tool,ICA,FieldTrip,17
+method,tool,ICA,ICLabel,59
+method,tool,ICA,LSL,1
+method,tool,ICA,MARA,25
+method,tool,ICA,MATLAB,72
+method,tool,ICA,MNE-Python,13
+method,tool,ICA,PREP pipeline,13
+method,tool,ICA,Python,22
+method,tool,ICA,R,2
+method,tool,ICA,SASICA,12
+method,tool,ICA,XGBoost,3
+method,tool,ICA,Zapline,4
+method,tool,ICA,clean_rawdata,15
+method,tool,ICA,scikit-learn,2
+method,tool,LDA,ADJUST,1
+method,tool,LDA,BioSemi,2
+method,tool,LDA,EDF,2
+method,tool,LDA,EEGLAB,2
+method,tool,LDA,FASTER,1
+method,tool,LDA,LSL,1
+method,tool,LDA,MARA,1
+method,tool,LDA,MATLAB,3
+method,tool,LDA,Python,3
+method,tool,LDA,XGBoost,4
+method,tool,LDA,scikit-learn,3
+method,tool,LSTM,ADJUST,4
+method,tool,LSTM,BioSemi,1
+method,tool,LSTM,EDF,3
+method,tool,LSTM,EEGLAB,1
+method,tool,LSTM,FASTER,4
+method,tool,LSTM,Keras,2
+method,tool,LSTM,MATLAB,2
+method,tool,LSTM,MNE-Python,1
+method,tool,LSTM,PREP pipeline,1
+method,tool,LSTM,Python,6
+method,tool,LSTM,R,1
+method,tool,LSTM,XGBoost,5
+method,tool,LSTM,scikit-learn,1
+method,tool,PCA,ADJUST,3
+method,tool,PCA,EDF,2
+method,tool,PCA,EEGLAB,20
+method,tool,PCA,FASTER,3
+method,tool,PCA,FieldTrip,5
+method,tool,PCA,ICLabel,5
+method,tool,PCA,MARA,2
+method,tool,PCA,MATLAB,10
+method,tool,PCA,MNE-Python,1
+method,tool,PCA,PREP pipeline,1
+method,tool,PCA,Python,5
+method,tool,PCA,R,1
+method,tool,PCA,XGBoost,2
+method,tool,PCA,Zapline,2
+method,tool,PCA,clean_rawdata,1
+method,tool,PCA,scikit-learn,2
+method,tool,RNN,ADJUST,3
+method,tool,RNN,EDF,3
+method,tool,RNN,Keras,1
+method,tool,RNN,LSL,1
+method,tool,RNN,MATLAB,1
+method,tool,RNN,Python,1
+method,tool,RNN,XGBoost,3
+method,tool,RNN,scikit-learn,1
+method,tool,Random Forest,ADJUST,3
+method,tool,Random Forest,FASTER,1
+method,tool,Random Forest,MATLAB,2
+method,tool,Random Forest,MNE-Python,3
+method,tool,Random Forest,Python,7
+method,tool,Random Forest,XGBoost,9
+method,tool,Random Forest,scikit-learn,5
+method,tool,SOBI/BSS,ADJUST,5
+method,tool,SOBI/BSS,BrainVision,1
+method,tool,SOBI/BSS,CleanLine,1
+method,tool,SOBI/BSS,EDF,1
+method,tool,SOBI/BSS,EEGLAB,25
+method,tool,SOBI/BSS,FASTER,4
+method,tool,SOBI/BSS,FieldTrip,5
+method,tool,SOBI/BSS,ICLabel,11
+method,tool,SOBI/BSS,MARA,3
+method,tool,SOBI/BSS,MATLAB,14
+method,tool,SOBI/BSS,MNE-Python,2
+method,tool,SOBI/BSS,Python,4
+method,tool,SOBI/BSS,SASICA,1
+method,tool,SOBI/BSS,clean_rawdata,1
+method,tool,SOBI/BSS,scikit-learn,1
+method,tool,SVM,ADJUST,4
+method,tool,SVM,Autoreject,1
+method,tool,SVM,BioSemi,1
+method,tool,SVM,EDF,3
+method,tool,SVM,EEGLAB,5
+method,tool,SVM,FASTER,11
+method,tool,SVM,LSL,1
+method,tool,SVM,MARA,2
+method,tool,SVM,MATLAB,17
+method,tool,SVM,MNE-Python,1
+method,tool,SVM,PyTorch,2
+method,tool,SVM,Python,10
+method,tool,SVM,SASICA,1
+method,tool,SVM,XGBoost,14
+method,tool,SVM,scikit-learn,12
+method,tool,Welch,ADJUST,2
+method,tool,Welch,Brainstorm,3
+method,tool,Welch,EEGLAB,9
+method,tool,Welch,FieldTrip,2
+method,tool,Welch,MATLAB,13
+method,tool,Welch,MNE-Python,3
+method,tool,Welch,Python,9
+method,tool,band-pass,ADJUST,12
+method,tool,band-pass,Autoreject,4
+method,tool,band-pass,BioSemi,2
+method,tool,band-pass,BrainVision,5
+method,tool,band-pass,Brainstorm,6
+method,tool,band-pass,CleanLine,5
+method,tool,band-pass,EDF,3
+method,tool,band-pass,EEGLAB,97
+method,tool,band-pass,FASTER,8
+method,tool,band-pass,FieldTrip,14
+method,tool,band-pass,ICLabel,12
+method,tool,band-pass,LSL,1
+method,tool,band-pass,MARA,4
+method,tool,band-pass,MATLAB,87
+method,tool,band-pass,MNE-Python,12
+method,tool,band-pass,PREP pipeline,8
+method,tool,band-pass,PyTorch,2
+method,tool,band-pass,Python,20
+method,tool,band-pass,R,1
+method,tool,band-pass,SASICA,1
+method,tool,band-pass,Zapline,4
+method,tool,band-pass,clean_rawdata,7
+method,tool,classifier,ADJUST,15
+method,tool,classifier,Automagic,1
+method,tool,classifier,Autoreject,1
+method,tool,classifier,EDF,3
+method,tool,classifier,EEGLAB,18
+method,tool,classifier,FASTER,20
+method,tool,classifier,FieldTrip,1
+method,tool,classifier,ICLabel,48
+method,tool,classifier,Keras,8
+method,tool,classifier,LSL,1
+method,tool,classifier,MARA,5
+method,tool,classifier,MATLAB,27
+method,tool,classifier,MNE-Python,8
+method,tool,classifier,PREP pipeline,1
+method,tool,classifier,PyTorch,4
+method,tool,classifier,Python,65
+method,tool,classifier,R,4
+method,tool,classifier,SASICA,2
+method,tool,classifier,XGBoost,15
+method,tool,classifier,scikit-learn,45
+method,tool,high-pass,ADJUST,4
+method,tool,high-pass,Autoreject,4
+method,tool,high-pass,BioSemi,2
+method,tool,high-pass,BrainVision,2
+method,tool,high-pass,Brainstorm,2
+method,tool,high-pass,CleanLine,6
+method,tool,high-pass,EDF,2
+method,tool,high-pass,EEGLAB,60
+method,tool,high-pass,FASTER,13
+method,tool,high-pass,FieldTrip,4
+method,tool,high-pass,ICLabel,8
+method,tool,high-pass,LSL,2
+method,tool,high-pass,MARA,3
+method,tool,high-pass,MATLAB,49
+method,tool,high-pass,MNE-Python,3
+method,tool,high-pass,PREP pipeline,6
+method,tool,high-pass,Python,8
+method,tool,high-pass,R,1
+method,tool,high-pass,Zapline,3
+method,tool,high-pass,clean_rawdata,9
+method,tool,interpolation,ADJUST,14
+method,tool,interpolation,Autoreject,8
+method,tool,interpolation,BrainVision,2
+method,tool,interpolation,Brainstorm,4
+method,tool,interpolation,CleanLine,8
+method,tool,interpolation,EEGLAB,47
+method,tool,interpolation,FASTER,16
+method,tool,interpolation,FieldTrip,10
+method,tool,interpolation,ICLabel,17
+method,tool,interpolation,MARA,5
+method,tool,interpolation,MATLAB,19
+method,tool,interpolation,MNE-Python,4
+method,tool,interpolation,PREP pipeline,9
+method,tool,interpolation,Python,5
+method,tool,interpolation,SASICA,2
+method,tool,interpolation,Zapline,5
+method,tool,interpolation,clean_rawdata,9
+method,tool,kNN,ADJUST,2
+method,tool,kNN,Autoreject,1
+method,tool,kNN,BioSemi,1
+method,tool,kNN,EDF,1
+method,tool,kNN,EEGLAB,2
+method,tool,kNN,FASTER,4
+method,tool,kNN,FieldTrip,1
+method,tool,kNN,Keras,1
+method,tool,kNN,MARA,1
+method,tool,kNN,MATLAB,7
+method,tool,kNN,PyTorch,1
+method,tool,kNN,Python,7
+method,tool,kNN,SASICA,1
+method,tool,kNN,XGBoost,8
+method,tool,kNN,scikit-learn,5
+method,tool,low-pass,ADJUST,3
+method,tool,low-pass,Autoreject,2
+method,tool,low-pass,BioSemi,5
+method,tool,low-pass,BrainVision,5
+method,tool,low-pass,Brainstorm,3
+method,tool,low-pass,CleanLine,4
+method,tool,low-pass,EDF,1
+method,tool,low-pass,EEGLAB,52
+method,tool,low-pass,FASTER,11
+method,tool,low-pass,FieldTrip,5
+method,tool,low-pass,ICLabel,3
+method,tool,low-pass,LSL,2
+method,tool,low-pass,MARA,1
+method,tool,low-pass,MATLAB,48
+method,tool,low-pass,MNE-Python,3
+method,tool,low-pass,PREP pipeline,4
+method,tool,low-pass,Python,10
+method,tool,low-pass,Zapline,2
+method,tool,low-pass,clean_rawdata,4
+method,tool,notch/band-stop,ADJUST,3
+method,tool,notch/band-stop,BioSemi,4
+method,tool,notch/band-stop,BrainVision,8
+method,tool,notch/band-stop,Brainstorm,2
+method,tool,notch/band-stop,CleanLine,6
+method,tool,notch/band-stop,EDF,1
+method,tool,notch/band-stop,EEGLAB,52
+method,tool,notch/band-stop,FASTER,5
+method,tool,notch/band-stop,FieldTrip,6
+method,tool,notch/band-stop,ICLabel,6
+method,tool,notch/band-stop,LSL,2
+method,tool,notch/band-stop,MARA,1
+method,tool,notch/band-stop,MATLAB,51
+method,tool,notch/band-stop,MNE-Python,4
+method,tool,notch/band-stop,PREP pipeline,6
+method,tool,notch/band-stop,Python,13
+method,tool,notch/band-stop,R,1
+method,tool,notch/band-stop,SASICA,2
+method,tool,notch/band-stop,Zapline,4
+method,tool,notch/band-stop,clean_rawdata,4
+method,tool,reconstruction/imputation,ADJUST,11
+method,tool,reconstruction/imputation,Automagic,2
+method,tool,reconstruction/imputation,Autoreject,1
+method,tool,reconstruction/imputation,BioSemi,1
+method,tool,reconstruction/imputation,Brainstorm,8
+method,tool,reconstruction/imputation,CleanLine,5
+method,tool,reconstruction/imputation,EDF,1
+method,tool,reconstruction/imputation,EEGLAB,48
+method,tool,reconstruction/imputation,FASTER,4
+method,tool,reconstruction/imputation,FieldTrip,3
+method,tool,reconstruction/imputation,ICLabel,16
+method,tool,reconstruction/imputation,MARA,1
+method,tool,reconstruction/imputation,MATLAB,29
+method,tool,reconstruction/imputation,MNE-Python,6
+method,tool,reconstruction/imputation,PREP pipeline,5
+method,tool,reconstruction/imputation,Python,16
+method,tool,reconstruction/imputation,Zapline,3
+method,tool,reconstruction/imputation,clean_rawdata,14
+method,tool,reconstruction/imputation,scikit-learn,3
+method,tool,regression/GLM,ADJUST,8
+method,tool,regression/GLM,Automagic,1
+method,tool,regression/GLM,Autoreject,1
+method,tool,regression/GLM,BrainVision,1
+method,tool,regression/GLM,CleanLine,5
+method,tool,regression/GLM,EDF,1
+method,tool,regression/GLM,EEGLAB,18
+method,tool,regression/GLM,FASTER,3
+method,tool,regression/GLM,FieldTrip,1
+method,tool,regression/GLM,ICLabel,3
+method,tool,regression/GLM,Keras,1
+method,tool,regression/GLM,LSL,1
+method,tool,regression/GLM,MARA,1
+method,tool,regression/GLM,MATLAB,23
+method,tool,regression/GLM,MNE-Python,4
+method,tool,regression/GLM,PREP pipeline,2
+method,tool,regression/GLM,Python,11
+method,tool,regression/GLM,R,5
+method,tool,regression/GLM,XGBoost,10
+method,tool,regression/GLM,Zapline,1
+method,tool,regression/GLM,clean_rawdata,1
+method,tool,regression/GLM,scikit-learn,8
+method,tool,spectrogram/STFT,ADJUST,2
+method,tool,spectrogram/STFT,EEGLAB,5
+method,tool,spectrogram/STFT,FASTER,6
+method,tool,spectrogram/STFT,FieldTrip,1
+method,tool,spectrogram/STFT,Keras,1
+method,tool,spectrogram/STFT,LSL,1
+method,tool,spectrogram/STFT,MATLAB,3
+method,tool,spectrogram/STFT,MNE-Python,3
+method,tool,spectrogram/STFT,Python,7
+method,tool,spectrogram/STFT,XGBoost,1
+method,tool,threshold,ADJUST,25
+method,tool,threshold,Autoreject,8
+method,tool,threshold,BioSemi,1
+method,tool,threshold,Brainstorm,3
+method,tool,threshold,CleanLine,3
+method,tool,threshold,EEGLAB,49
+method,tool,threshold,FASTER,73
+method,tool,threshold,FieldTrip,6
+method,tool,threshold,ICLabel,25
+method,tool,threshold,LSL,1
+method,tool,threshold,MARA,9
+method,tool,threshold,MATLAB,39
+method,tool,threshold,MNE-Python,12
+method,tool,threshold,PREP pipeline,4
+method,tool,threshold,PyTorch,2
+method,tool,threshold,Python,22
+method,tool,threshold,R,2
+method,tool,threshold,SASICA,4
+method,tool,threshold,XGBoost,2
+method,tool,threshold,Zapline,5
+method,tool,threshold,clean_rawdata,4
+method,tool,threshold,scikit-learn,2
+method,tool,wavelet/DWT/CWT,ADJUST,11
+method,tool,wavelet/DWT/CWT,BioSemi,2
+method,tool,wavelet/DWT/CWT,CleanLine,1
+method,tool,wavelet/DWT/CWT,EDF,2
+method,tool,wavelet/DWT/CWT,EEGLAB,8
+method,tool,wavelet/DWT/CWT,FASTER,12
+method,tool,wavelet/DWT/CWT,FieldTrip,3
+method,tool,wavelet/DWT/CWT,ICLabel,10
+method,tool,wavelet/DWT/CWT,Keras,2
+method,tool,wavelet/DWT/CWT,LSL,1
+method,tool,wavelet/DWT/CWT,MARA,5
+method,tool,wavelet/DWT/CWT,MATLAB,29
+method,tool,wavelet/DWT/CWT,MNE-Python,2
+method,tool,wavelet/DWT/CWT,PREP pipeline,6
+method,tool,wavelet/DWT/CWT,Python,16
+method,tool,wavelet/DWT/CWT,R,1
+method,tool,wavelet/DWT/CWT,SASICA,1
+method,tool,wavelet/DWT/CWT,XGBoost,8
+method,tool,wavelet/DWT/CWT,Zapline,1
+method,tool,wavelet/DWT/CWT,scikit-learn,2
+method,tool,z-score,ADJUST,1
+method,tool,z-score,Autoreject,2
+method,tool,z-score,Brainstorm,2
+method,tool,z-score,EEGLAB,5
+method,tool,z-score,FASTER,8
+method,tool,z-score,FieldTrip,3
+method,tool,z-score,ICLabel,3
+method,tool,z-score,MATLAB,5
+method,tool,z-score,MNE-Python,3
+method,tool,z-score,PREP pipeline,1
+method,tool,z-score,PyTorch,2
+method,tool,z-score,Python,7
+method,tool,z-score,clean_rawdata,1
+metric,marker_artifact,AUC/ROC,Bad channel / electrode contact,2
+metric,marker_artifact,AUC/ROC,Cardiac / ECG / BCG,9
+metric,marker_artifact,AUC/ROC,IC/component label,1
+metric,marker_artifact,AUC/ROC,Line / mains noise,2
+metric,marker_artifact,AUC/ROC,Motion / head movement,6
+metric,marker_artifact,AUC/ROC,Muscle / EMG,5
+metric,marker_artifact,AUC/ROC,Ocular / blink / EOG,12
+metric,marker_artifact,AUC/ROC,TMS artifact,2
+metric,marker_artifact,F1/F-score,Artifact label / class,1
+metric,marker_artifact,F1/F-score,Bad channel / electrode contact,5
+metric,marker_artifact,F1/F-score,Cardiac / ECG / BCG,6
+metric,marker_artifact,F1/F-score,IC/component label,1
+metric,marker_artifact,F1/F-score,Line / mains noise,6
+metric,marker_artifact,F1/F-score,Motion / head movement,2
+metric,marker_artifact,F1/F-score,Muscle / EMG,4
+metric,marker_artifact,F1/F-score,Ocular / blink / EOG,14
+metric,marker_artifact,MAE,Bad channel / electrode contact,4
+metric,marker_artifact,MAE,Cardiac / ECG / BCG,3
+metric,marker_artifact,MAE,Line / mains noise,2
+metric,marker_artifact,MAE,Motion / head movement,1
+metric,marker_artifact,MAE,Muscle / EMG,4
+metric,marker_artifact,MAE,Ocular / blink / EOG,12
+metric,marker_artifact,MAE,TMS artifact,1
+metric,marker_artifact,MSE,Bad channel / electrode contact,2
+metric,marker_artifact,MSE,Cardiac / ECG / BCG,8
+metric,marker_artifact,MSE,Cochlear implant artifact,1
+metric,marker_artifact,MSE,Drift / sweat / cable,1
+metric,marker_artifact,MSE,Line / mains noise,2
+metric,marker_artifact,MSE,Motion / head movement,3
+metric,marker_artifact,MSE,Muscle / EMG,16
+metric,marker_artifact,MSE,Ocular / blink / EOG,29
+metric,marker_artifact,R2,Bad channel / electrode contact,4
+metric,marker_artifact,R2,Cardiac / ECG / BCG,2
+metric,marker_artifact,R2,Line / mains noise,5
+metric,marker_artifact,R2,Motion / head movement,6
+metric,marker_artifact,R2,Muscle / EMG,6
+metric,marker_artifact,R2,Ocular / blink / EOG,8
+metric,marker_artifact,RMSE,Artifact label / class,1
+metric,marker_artifact,RMSE,Bad channel / electrode contact,1
+metric,marker_artifact,RMSE,Cardiac / ECG / BCG,8
+metric,marker_artifact,RMSE,Cochlear implant artifact,1
+metric,marker_artifact,RMSE,Drift / sweat / cable,1
+metric,marker_artifact,RMSE,Line / mains noise,2
+metric,marker_artifact,RMSE,Motion / head movement,2
+metric,marker_artifact,RMSE,Muscle / EMG,15
+metric,marker_artifact,RMSE,Ocular / blink / EOG,26
+metric,marker_artifact,RMSE,fMRI gradient artifact,1
+metric,marker_artifact,SNR,Artifact label / class,2
+metric,marker_artifact,SNR,Bad channel / electrode contact,29
+metric,marker_artifact,SNR,Cardiac / ECG / BCG,34
+metric,marker_artifact,SNR,Cochlear implant artifact,1
+metric,marker_artifact,SNR,Drift / sweat / cable,1
+metric,marker_artifact,SNR,IC/component label,1
+metric,marker_artifact,SNR,Line / mains noise,30
+metric,marker_artifact,SNR,Motion / head movement,48
+metric,marker_artifact,SNR,Muscle / EMG,59
+metric,marker_artifact,SNR,Ocular / blink / EOG,82
+metric,marker_artifact,SNR,Rejected epoch / segment,8
+metric,marker_artifact,SNR,TMS artifact,1
+metric,marker_artifact,SNR,fMRI gradient artifact,1
+metric,marker_artifact,accuracy,Artifact label / class,5
+metric,marker_artifact,accuracy,Bad channel / electrode contact,28
+metric,marker_artifact,accuracy,Cardiac / ECG / BCG,49
+metric,marker_artifact,accuracy,Drift / sweat / cable,2
+metric,marker_artifact,accuracy,IC/component label,1
+metric,marker_artifact,accuracy,Line / mains noise,29
+metric,marker_artifact,accuracy,Motion / head movement,44
+metric,marker_artifact,accuracy,Muscle / EMG,84
+metric,marker_artifact,accuracy,Ocular / blink / EOG,104
+metric,marker_artifact,accuracy,Rejected epoch / segment,2
+metric,marker_artifact,accuracy,TMS artifact,8
+metric,marker_artifact,accuracy,fMRI gradient artifact,1
+metric,marker_artifact,correlation,Artifact label / class,4
+metric,marker_artifact,correlation,Bad channel / electrode contact,25
+metric,marker_artifact,correlation,Bad-channel label/list,1
+metric,marker_artifact,correlation,Cardiac / ECG / BCG,53
+metric,marker_artifact,correlation,Cochlear implant artifact,1
+metric,marker_artifact,correlation,Drift / sweat / cable,1
+metric,marker_artifact,correlation,IC/component label,1
+metric,marker_artifact,correlation,Line / mains noise,29
+metric,marker_artifact,correlation,Motion / head movement,41
+metric,marker_artifact,correlation,Muscle / EMG,91
+metric,marker_artifact,correlation,Ocular / blink / EOG,107
+metric,marker_artifact,correlation,Rejected epoch / segment,7
+metric,marker_artifact,correlation,TMS artifact,8
+metric,marker_artifact,correlation,fMRI gradient artifact,4
+metric,marker_artifact,effect size/Cohen d/CI,Bad channel / electrode contact,2
+metric,marker_artifact,effect size/Cohen d/CI,Cardiac / ECG / BCG,4
+metric,marker_artifact,effect size/Cohen d/CI,Line / mains noise,2
+metric,marker_artifact,effect size/Cohen d/CI,Motion / head movement,5
+metric,marker_artifact,effect size/Cohen d/CI,Muscle / EMG,7
+metric,marker_artifact,effect size/Cohen d/CI,Ocular / blink / EOG,13
+metric,marker_artifact,effect size/Cohen d/CI,Rejected epoch / segment,1
+metric,marker_artifact,effect size/Cohen d/CI,fMRI gradient artifact,1
+metric,marker_artifact,p-value,Artifact label / class,1
+metric,marker_artifact,p-value,Bad channel / electrode contact,10
+metric,marker_artifact,p-value,Cardiac / ECG / BCG,8
+metric,marker_artifact,p-value,IC/component label,1
+metric,marker_artifact,p-value,Line / mains noise,3
+metric,marker_artifact,p-value,Motion / head movement,5
+metric,marker_artifact,p-value,Muscle / EMG,12
+metric,marker_artifact,p-value,Ocular / blink / EOG,18
+metric,marker_artifact,p-value,Rejected epoch / segment,3
+metric,marker_artifact,p-value,TMS artifact,1
+metric,marker_artifact,precision,Bad channel / electrode contact,8
+metric,marker_artifact,precision,Cardiac / ECG / BCG,18
+metric,marker_artifact,precision,IC/component label,1
+metric,marker_artifact,precision,Line / mains noise,7
+metric,marker_artifact,precision,Motion / head movement,13
+metric,marker_artifact,precision,Muscle / EMG,15
+metric,marker_artifact,precision,Ocular / blink / EOG,29
+metric,marker_artifact,precision,TMS artifact,3
+metric,marker_artifact,recall,Artifact label / class,1
+metric,marker_artifact,recall,Bad channel / electrode contact,4
+metric,marker_artifact,recall,Cardiac / ECG / BCG,7
+metric,marker_artifact,recall,IC/component label,1
+metric,marker_artifact,recall,Line / mains noise,6
+metric,marker_artifact,recall,Motion / head movement,3
+metric,marker_artifact,recall,Muscle / EMG,6
+metric,marker_artifact,recall,Ocular / blink / EOG,12
+metric,marker_artifact,removed components/rejection rate,Bad channel / electrode contact,1
+metric,marker_artifact,removed components/rejection rate,Cardiac / ECG / BCG,4
+metric,marker_artifact,removed components/rejection rate,Line / mains noise,3
+metric,marker_artifact,removed components/rejection rate,Motion / head movement,2
+metric,marker_artifact,removed components/rejection rate,Muscle / EMG,4
+metric,marker_artifact,removed components/rejection rate,Ocular / blink / EOG,7
+metric,marker_artifact,removed components/rejection rate,Rejected epoch / segment,12
+metric,marker_artifact,sensitivity,Artifact label / class,4
+metric,marker_artifact,sensitivity,Bad channel / electrode contact,12
+metric,marker_artifact,sensitivity,Cardiac / ECG / BCG,24
+metric,marker_artifact,sensitivity,Line / mains noise,17
+metric,marker_artifact,sensitivity,Motion / head movement,21
+metric,marker_artifact,sensitivity,Muscle / EMG,27
+metric,marker_artifact,sensitivity,Ocular / blink / EOG,47
+metric,marker_artifact,sensitivity,Rejected epoch / segment,1
+metric,marker_artifact,sensitivity,TMS artifact,1
+metric,marker_artifact,sensitivity,fMRI gradient artifact,2
+metric,marker_artifact,specificity,Artifact label / class,1
+metric,marker_artifact,specificity,Bad channel / electrode contact,2
+metric,marker_artifact,specificity,Cardiac / ECG / BCG,10
+metric,marker_artifact,specificity,Line / mains noise,8
+metric,marker_artifact,specificity,Motion / head movement,8
+metric,marker_artifact,specificity,Muscle / EMG,8
+metric,marker_artifact,specificity,Ocular / blink / EOG,13
+metric,marker_artifact,specificity,Rejected epoch / segment,1
+metric,marker_artifact,specificity,TMS artifact,3

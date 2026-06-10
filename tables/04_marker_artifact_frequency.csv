@@ -1,0 +1,15 @@
+﻿level,label,article_count,percent_articles,mention_count
+marker_artifact,Ocular / blink / EOG,621,77.52808988764045,14442
+marker_artifact,Muscle / EMG,483,60.29962546816479,5720
+marker_artifact,Line / mains noise,472,58.92634207240949,2196
+marker_artifact,Bad channel / electrode contact,373,46.566791510611736,1873
+marker_artifact,Motion / head movement,369,46.06741573033708,1975
+marker_artifact,Cardiac / ECG / BCG,328,40.94881398252185,4058
+marker_artifact,TMS artifact,82,10.237203495630462,499
+marker_artifact,Rejected epoch / segment,77,9.61298377028714,186
+marker_artifact,fMRI gradient artifact,47,5.867665418227216,177
+marker_artifact,Drift / sweat / cable,41,5.118601747815231,61
+marker_artifact,Artifact label / class,31,3.8701622971285894,126
+marker_artifact,IC/component label,22,2.746566791510612,68
+marker_artifact,Cochlear implant artifact,7,0.8739076154806492,80
+marker_artifact,Bad-channel label/list,1,0.12484394506866417,7
